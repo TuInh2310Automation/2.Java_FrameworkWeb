@@ -1,0 +1,1627 @@
+[2023-07-06 00:34:22,104] Register - Step 01 : Navigate to register Page
+[2023-07-06 00:34:23,199] Register - Step 02 : Enter to FirstName textbox with value is Automation
+[2023-07-06 00:34:23,437] Register - Step 03 : Enter to LastName textbox with value is FC
+[2023-07-06 00:34:23,671] Register - Step 04 : Enter to email textbox with value is afc7988@mail.vn
+[2023-07-06 00:34:23,857] Register - Step 05 : Enter to password textbox with value is 123456
+[2023-07-06 00:34:24,046] Register - Step 06 : Enter to confirmPw textbox with value is 123456
+[2023-07-06 00:34:24,214] Register - Step 07: Click to Register Button
+[2023-07-06 00:34:25,017] Register - Step 08 : Verify register success
+[2023-07-06 00:34:25,105] Register - Step 09 : Go to HomePage
+[2023-07-06 00:34:25,746] Register - Step 01 : Navigate to Login Page
+[2023-07-06 00:34:26,256] Register - Step 02 : email  to FirstName textbox with value is afc7988@mail.vn
+[2023-07-06 00:34:26,440] Register - Step 03 : Enter to password textbox with value is 123456
+[2023-07-06 00:34:26,613] Register - Step 04: Click to Login Button
+[2023-07-06 00:34:27,470] Register - Step 05: Verify 'MyAccount' link is display
+[2023-07-06 00:34:27,581] Register - Step 06: Navigate to 'My Account' Page
+[2023-07-06 00:34:28,089] Register - Step 07: Verify  'My Account' Page is displayed
+[2023-07-06 00:47:33,382] Register - Step 01 : Navigate to register Page
+[2023-07-06 00:47:34,529] Register - Step 02 : Enter to FirstName textbox with value is Automation
+[2023-07-06 00:47:34,762] Register - Step 03 : Enter to LastName textbox with value is FC
+[2023-07-06 00:47:34,931] Register - Step 04 : Enter to email textbox with value is afc452@mail.vn
+[2023-07-06 00:47:35,124] Register - Step 05 : Enter to password textbox with value is 123456
+[2023-07-06 00:47:35,308] Register - Step 06 : Enter to confirmPw textbox with value is 123456
+[2023-07-06 00:47:35,475] Register - Step 07: Click to Register Button
+[2023-07-06 00:47:36,322] Register - Step 08 : Verify register success
+[2023-07-06 00:47:36,408] Register - Step 09 : Go to HomePage
+[2023-07-06 00:47:36,987] Register - Step 01 : Navigate to Login Page
+[2023-07-06 00:47:37,478] Register - Step 02 : email  to FirstName textbox with value is afc452@mail.vn
+[2023-07-06 00:47:37,647] Register - Step 03 : Enter to password textbox with value is 123456
+[2023-07-06 00:47:37,833] Register - Step 04: Click to Login Button
+[2023-07-06 00:47:38,709] Register - Step 05: Verify 'MyAccount' link is display
+[2023-07-06 00:47:38,825]  -------------------------- PASSED -------------------------- 
+[2023-07-06 00:47:38,825] Register - Step 06: Navigate to 'My Account' Page
+[2023-07-06 00:47:39,383] Register - Step 07: Verify  'My Account' Page is displayed
+[2023-07-06 00:47:39,478]  -------------------------- PASSED -------------------------- 
+[2023-07-06 01:17:56,671] Register - Step 01 : Navigate to register Page
+[2023-07-06 01:17:57,952] Register - Step 02 : Enter to FirstName textbox with value is Automation
+[2023-07-06 01:17:58,328] Register - Step 03 : Enter to LastName textbox with value is FC
+[2023-07-06 01:17:58,620] Register - Step 04 : Enter to email textbox with value is afc7752@mail.vn
+[2023-07-06 01:17:58,909] Register - Step 05 : Enter to password textbox with value is 123456
+[2023-07-06 01:17:59,286] Register - Step 06 : Enter to confirmPw textbox with value is 123456
+[2023-07-06 01:17:59,630] Register - Step 07: Click to Register Button
+[2023-07-06 01:18:00,588] Register - Step 08 : Verify register success
+[2023-07-06 01:18:00,720] Register - Step 09 : Go to HomePage
+[2023-07-06 01:18:01,612] Register - Step 01 : Navigate to Login Page
+[2023-07-06 01:18:02,361] Register - Step 02 : email  to FirstName textbox with value is afc7752@mail.vn
+[2023-07-06 01:18:02,636] Register - Step 03 : Enter to password textbox with value is 123456
+[2023-07-06 01:18:02,917] Register - Step 04: Click to Login Button
+[2023-07-06 01:18:03,963] Register - Step 05: Verify 'MyAccount' link is display
+[2023-07-06 01:18:04,125]  -------------------------- PASSED -------------------------- 
+[2023-07-06 01:18:04,125] Register - Step 06: Navigate to 'My Account' Page
+[2023-07-06 01:18:04,787] Register - Step 07: Verify  'My Account' Page is displayed
+[2023-07-06 01:18:04,923]  -------------------------- PASSED -------------------------- 
+[2023-07-06 01:35:55,693] Register - Step 01 : Navigate to register Page
+[2023-07-06 01:35:56,877] Register - Step 02 : Enter to FirstName textbox with value is Automation
+[2023-07-06 01:35:57,167] Register - Step 03 : Enter to LastName textbox with value is FC
+[2023-07-06 01:35:57,507] Register - Step 04 : Enter to email textbox with value is afc9680@mail.vn
+[2023-07-06 01:35:57,769] Register - Step 05 : Enter to password textbox with value is 123456
+[2023-07-06 01:35:58,015] Register - Step 06 : Enter to confirmPw textbox with value is 123456
+[2023-07-06 01:35:58,280] Register - Step 07: Click to Register Button
+[2023-07-06 01:35:59,207] Register - Step 08 : Verify register success
+[2023-07-06 01:35:59,320] Register - Step 09 : Go to HomePage
+[2023-07-06 01:35:59,966] Register - Step 01 : Navigate to Login Page
+[2023-07-06 01:36:00,630] Register - Step 02 : email  to FirstName textbox with value is afc9680@mail.vn
+[2023-07-06 01:36:00,884] Register - Step 03 : Enter to password textbox with value is 123456
+[2023-07-06 01:36:01,114] Register - Step 04: Click to Login Button
+[2023-07-06 01:36:02,077] Register - Step 05: Verify 'MyAccount' link is display
+[2023-07-06 01:36:02,219]  -------------------------- PASSED -------------------------- 
+[2023-07-06 01:36:02,219] Register - Step 06: Navigate to 'My Account' Page
+[2023-07-06 01:36:02,829] Register - Step 07: Verify  'My Account' Page is displayed
+[2023-07-06 01:36:03,049]  -------------------------- PASSED -------------------------- 
+[2023-07-06 01:36:07,475] Register - Step 01 : Navigate to register Page
+[2023-07-06 01:36:08,717] Register - Step 02 : Enter to FirstName textbox with value is Automation
+[2023-07-06 01:36:09,001] Register - Step 03 : Enter to LastName textbox with value is FC
+[2023-07-06 01:36:09,275] Register - Step 04 : Enter to email textbox with value is afc2574@mail.vn
+[2023-07-06 01:36:09,513] Register - Step 05 : Enter to password textbox with value is 123456
+[2023-07-06 01:36:09,766] Register - Step 06 : Enter to confirmPw textbox with value is 123456
+[2023-07-06 01:36:10,030] Register - Step 07: Click to Register Button
+[2023-07-06 01:36:11,063] Register - Step 08 : Verify register success
+[2023-07-06 01:36:11,179] Register - Step 09 : Go to HomePage
+[2023-07-06 01:36:11,837] Register - Step 01 : Navigate to Login Page
+[2023-07-06 01:36:12,507] Register - Step 02 : email  to FirstName textbox with value is afc2574@mail.vn
+[2023-07-06 01:36:12,787] Register - Step 03 : Enter to password textbox with value is 123456
+[2023-07-06 01:36:13,027] Register - Step 04: Click to Login Button
+[2023-07-06 01:36:14,100] Register - Step 05: Verify 'MyAccount' link is display
+[2023-07-06 01:36:14,265]  -------------------------- PASSED -------------------------- 
+[2023-07-06 01:36:14,266] Register - Step 06: Navigate to 'My Account' Page
+[2023-07-06 01:36:14,909] Register - Step 07: Verify  'My Account' Page is displayed
+[2023-07-06 01:36:15,065]  -------------------------- PASSED -------------------------- 
+[2023-07-06 14:12:11,696] Register - Step 01 : Navigate to register Page
+[2023-07-06 14:12:12,858] Register - Step 02 : Enter to FirstName textbox with value is Automation
+[2023-07-06 14:12:13,073] Register - Step 03 : Enter to LastName textbox with value is FC
+[2023-07-06 14:12:13,256] Register - Step 04 : Enter to email textbox with value is afc4133@mail.vn
+[2023-07-06 14:12:13,441] Register - Step 05 : Enter to password textbox with value is 123456
+[2023-07-06 14:12:13,610] Register - Step 06 : Enter to confirmPw textbox with value is 123456
+[2023-07-06 14:12:13,792] Register - Step 07: Click to Register Button
+[2023-07-06 14:12:14,625] Register - Step 08 : Verify register success
+[2023-07-06 14:12:14,707] Register - Step 09 : Go to HomePage
+[2023-07-06 14:12:15,266] Register - Step 01 : Navigate to Login Page
+[2023-07-06 14:18:50,880] Register - Step 01 : Navigate to register Page
+[2023-07-06 14:18:52,060] Register - Step 02 : Enter to FirstName textbox with value is Automation
+[2023-07-06 14:18:52,290] Register - Step 03 : Enter to LastName textbox with value is FC
+[2023-07-06 14:18:52,471] Register - Step 04 : Enter to email textbox with value is afc1605@mail.vn
+[2023-07-06 14:18:52,644] Register - Step 05 : Enter to password textbox with value is 123456
+[2023-07-06 14:18:52,816] Register - Step 06 : Enter to confirmPw textbox with value is 123456
+[2023-07-06 14:18:53,000] Register - Step 07: Click to Register Button
+[2023-07-06 14:18:53,867] Register - Step 08 : Verify register success
+[2023-07-06 14:18:53,953] Register - Step 09 : Go to HomePage
+[2023-07-06 14:18:54,527] Register - Step 01 : Navigate to Login Page
+[2023-07-06 14:18:55,040] Register - Step 02 : email  to FirstName textbox with value is afc1605@mail.vn
+[2023-07-06 14:18:55,222] Register - Step 03 : Enter to password textbox with value is 123456
+[2023-07-06 14:18:55,399] Register - Step 04: Click to Login Button
+[2023-07-06 14:18:56,257] Register - Step 05: Verify 'MyAccount' link is display
+[2023-07-06 15:11:49,956] Register - Step 01 : Navigate to register Page
+[2023-07-06 15:11:50,611] Register - Step 02 : Enter to FirstName textbox with value is Automation
+[2023-07-06 15:11:50,842] Register - Step 03 : Enter to LastName textbox with value is FC
+[2023-07-06 15:11:51,048] Register - Step 04 : Enter to email textbox with value is afc174@mail.vn
+[2023-07-06 15:11:51,271] Register - Step 05 : Enter to password textbox with value is 123456
+[2023-07-06 15:11:51,501] Register - Step 06 : Enter to confirmPw textbox with value is 123456
+[2023-07-06 15:11:51,740] Register - Step 07: Click to Register Button
+[2023-07-06 15:11:52,589] Register - Step 08 : Verify register success
+[2023-07-06 15:11:52,680] Register - Step 09 : Go to HomePage
+[2023-07-06 15:11:53,250] Register - Step 01 : Navigate to Login Page
+[2023-07-06 15:11:53,799] Register - Step 02 : email  to FirstName textbox with value is afc174@mail.vn
+[2023-07-06 15:11:53,989] Register - Step 03 : Enter to password textbox with value is 123456
+[2023-07-06 15:11:54,178] Register - Step 04: Click to Login Button
+[2023-07-06 15:11:55,072] Register - Step 05: Verify 'MyAccount' link is display
+[2023-07-06 15:11:55,210] Register - Step 06: Navigate to 'My Account' Page
+[2023-07-06 15:11:55,741] Register - Step 07: Verify  'My Account' Page is displayed
+[2023-07-07 10:44:45,550] Register - Step 01 : Navigate to register Page
+[2023-07-07 10:44:46,698] Register - Step 02 : Enter to FirstName textbox with value is Automation
+[2023-07-07 10:44:46,944] Register - Step 03 : Enter to LastName textbox with value is FC
+[2023-07-07 10:44:47,155] Register - Step 04 : Enter to email textbox with value is afc1492@mail.vn
+[2023-07-07 10:44:47,381] Register - Step 05 : Enter to password textbox with value is 123456
+[2023-07-07 10:44:47,610] Register - Step 06 : Enter to confirmPw textbox with value is 123456
+[2023-07-07 10:44:47,828] Register - Step 07: Click to Register Button
+[2023-07-07 10:44:48,645] Register - Step 08 : Verify register success
+[2023-07-07 10:44:48,744] Register - Step 09 : Go to HomePage
+[2023-07-07 10:44:49,332] Register - Step 01 : Navigate to Login Page
+[2023-07-07 10:44:49,888] Register - Step 02 : email  to FirstName textbox with value is afc1492@mail.vn
+[2023-07-07 10:44:50,082] Register - Step 03 : Enter to password textbox with value is 123456
+[2023-07-07 10:44:50,286] Register - Step 04: Click to Login Button
+[2023-07-07 10:44:51,113] Register - Step 05: Verify 'MyAccount' link is display
+[2023-07-07 10:44:51,263] Register - Step 06: Navigate to 'My Account' Page
+[2023-07-07 10:44:51,864] Register - Step 07: Verify  'My Account' Page is displayed
+[2023-07-07 12:24:17,442] Register - Step 01 : Navigate to register Page
+[2023-07-07 12:24:18,788] Register - Step 02 : Enter to FirstName textbox with value is Automation
+[2023-07-07 12:24:19,184] Register - Step 03 : Enter to LastName textbox with value is FC
+[2023-07-07 12:24:19,503] Register - Step 04 : Enter to email textbox with value is afc9203@mail.vn
+[2023-07-07 12:24:19,781] Register - Step 05 : Enter to password textbox with value is 123456
+[2023-07-07 12:24:20,060] Register - Step 06 : Enter to confirmPw textbox with value is 123456
+[2023-07-07 12:24:20,347] Register - Step 07: Click to Register Button
+[2023-07-07 12:24:21,378] Register - Step 08 : Verify register success
+[2023-07-07 12:24:21,504] Register - Step 09 : Go to HomePage
+[2023-07-07 12:51:24,585] Register - Step 01 : Navigate to register Page
+[2023-07-07 12:51:26,080] Register - Step 02 : Enter to FirstName textbox with value is Automation
+[2023-07-07 12:51:26,418] Register - Step 03 : Enter to LastName textbox with value is FC
+[2023-07-07 12:51:26,719] Register - Step 04 : Enter to email textbox with value is afc2713@mail.vn
+[2023-07-07 12:51:27,054] Register - Step 05 : Enter to password textbox with value is 123456
+[2023-07-07 12:51:27,377] Register - Step 06 : Enter to confirmPw textbox with value is 123456
+[2023-07-07 12:51:27,820] Register - Step 07: Click to Register Button
+[2023-07-07 12:51:28,912] Register - Step 08 : Verify register success
+[2023-07-07 12:51:29,063] Register - Step 09 : Go to HomePage
+[2023-07-11 11:45:58,971] Register - Step 01 : Navigate to Login Page
+[2023-07-11 11:46:00,234] Register - Step 02 : email  to FirstName textbox with value is afc7613@mail.vn
+[2023-07-11 11:46:00,522] Register - Step 03 : Enter to password textbox with value is null
+[2023-07-11 14:53:39,384] Precondition - Step 01 : Navigate to Login Page
+[2023-07-11 14:53:41,099] Precondition - Step 02 : Set cookies and reload page
+[2023-07-11 14:54:01,808] Precondition - Step 04: Click to Login Button
+[2023-07-11 14:54:02,422] Precondition - Step 05: Verify 'MyAccount' link is display
+[2023-07-11 14:54:02,608]  -------------------------- PASSED -------------------------- 
+[2023-07-11 14:58:55,547] Precondition - Step 01 : Navigate to Login Page
+[2023-07-11 14:58:57,011] Precondition - Step 02 : Set cookies and reload page
+[2023-07-11 14:59:15,860] Precondition - Step 04: Click to Login Button
+[2023-07-11 14:59:16,374] Precondition - Step 05: Verify 'MyAccount' link is display
+[2023-07-11 14:59:16,670]  -------------------------- PASSED -------------------------- 
+[2023-07-11 21:29:59,269] Pre-Condition - Step 01 : Navigate to register Page
+[2023-07-11 21:30:00,496] Pre-Condition - Step 02 : Enter to FirstName textbox with value is Automation
+[2023-07-11 21:30:00,893] Pre-Condition - Step 03 : Enter to LastName textbox with value is FC
+[2023-07-11 21:30:01,545] Pre-Condition - Step 04 : Enter to email textbox with value is afc6663@mail.vn
+[2023-07-11 21:30:01,935] Pre-Condition - Step 05 : Enter to password textbox with value is 123456
+[2023-07-11 21:30:02,210] Pre-Condition - Step 06 : Enter to confirmPw textbox with value is 123456
+[2023-07-11 21:30:02,483] Pre-Condition - Step 07: Click to Register Button
+[2023-07-11 21:30:03,477] Pre-Condition - Step 08 : Verify register success
+[2023-07-11 23:47:02,375] Pre-Condition - Step 01 : Navigate to register Page
+[2023-07-11 23:47:04,502] Pre-Condition - Step 02 : Enter to FirstName textbox with value is Automation
+[2023-07-11 23:47:05,394] Pre-Condition - Step 03 : Enter to LastName textbox with value is FC
+[2023-07-11 23:47:06,114] Pre-Condition - Step 04 : Enter to email textbox with value is afc9772@mail.vn
+[2023-07-11 23:47:07,040] Pre-Condition - Step 05 : Enter to password textbox with value is 123456
+[2023-07-11 23:47:07,938] Pre-Condition - Step 06 : Enter to confirmPw textbox with value is 123456
+[2023-07-11 23:47:08,322] Pre-Condition - Step 07: Click to Register Button
+[2023-07-11 23:47:10,288] Pre-Condition - Step 08 : Verify register success
+[2023-07-11 23:48:57,160] Pre-Condition - Step 01 : Navigate to register Page
+[2023-07-11 23:48:58,308] Pre-Condition - Step 02 : Enter to FirstName textbox with value is Automation
+[2023-07-11 23:48:58,552] Pre-Condition - Step 03 : Enter to LastName textbox with value is FC
+[2023-07-11 23:48:58,786] Pre-Condition - Step 04 : Enter to email textbox with value is afc56@mail.vn
+[2023-07-11 23:48:59,013] Pre-Condition - Step 05 : Enter to password textbox with value is 123456
+[2023-07-11 23:48:59,242] Pre-Condition - Step 06 : Enter to confirmPw textbox with value is 123456
+[2023-07-11 23:48:59,469] Pre-Condition - Step 07: Click to Register Button
+[2023-07-11 23:49:00,447] Pre-Condition - Step 08 : Verify register success
+[2023-07-11 23:50:42,241] Pre-Condition - Step 01 : Navigate to register Page
+[2023-07-11 23:50:43,852] Pre-Condition - Step 02 : Enter to FirstName textbox with value is Automation
+[2023-07-11 23:50:44,233] Pre-Condition - Step 03 : Enter to LastName textbox with value is FC
+[2023-07-11 23:50:44,503] Pre-Condition - Step 04 : Enter to email textbox with value is afc1452@mail.vn
+[2023-07-11 23:50:44,808] Pre-Condition - Step 05 : Enter to password textbox with value is 123456
+[2023-07-11 23:50:45,097] Pre-Condition - Step 06 : Enter to confirmPw textbox with value is 123456
+[2023-07-11 23:50:45,512] Pre-Condition - Step 07: Click to Register Button
+[2023-07-11 23:51:55,217] Pre-Condition - Step 01 : Navigate to register Page
+[2023-07-11 23:51:56,381] Pre-Condition - Step 02 : Enter to FirstName textbox with value is Automation
+[2023-07-11 23:51:56,660] Pre-Condition - Step 03 : Enter to LastName textbox with value is FC
+[2023-07-11 23:51:56,897] Pre-Condition - Step 04 : Enter to email textbox with value is afc4899@mail.vn
+[2023-07-11 23:51:57,132] Pre-Condition - Step 05 : Enter to password textbox with value is 123456
+[2023-07-11 23:51:57,352] Pre-Condition - Step 06 : Enter to confirmPw textbox with value is 123456
+[2023-07-11 23:51:57,578] Pre-Condition - Step 07: Click to Register Button
+[2023-07-11 23:56:13,274] Pre-Condition - Step 01 : Navigate to register Page
+[2023-07-11 23:56:14,379] Pre-Condition - Step 02 : Enter to FirstName textbox with value is Automation
+[2023-07-11 23:56:14,590] Pre-Condition - Step 03 : Enter to LastName textbox with value is FC
+[2023-07-11 23:56:14,766] Pre-Condition - Step 04 : Enter to email textbox with value is afc5022@mail.vn
+[2023-07-11 23:56:14,966] Pre-Condition - Step 05 : Enter to password textbox with value is 123456
+[2023-07-11 23:56:15,139] Pre-Condition - Step 06 : Enter to confirmPw textbox with value is 123456
+[2023-07-11 23:56:15,322] Pre-Condition - Step 07: Click to Register Button
+[2023-07-11 23:56:16,177] Pre-Condition - Step 08 : Verify register success
+[2023-07-12 11:12:55,716] Pre-Condition - Step 01 : Navigate to register Page
+[2023-07-12 11:12:56,936] Pre-Condition - Step 02 : Enter to FirstName textbox with value is Automation
+[2023-07-12 11:12:57,224] Pre-Condition - Step 03 : Enter to LastName textbox with value is FC
+[2023-07-12 11:12:57,531] Pre-Condition - Step 04 : Enter to email textbox with value is afc706@mail.vn
+[2023-07-12 11:12:57,811] Pre-Condition - Step 05 : Enter to password textbox with value is 123456
+[2023-07-12 11:12:58,067] Pre-Condition - Step 06 : Enter to confirmPw textbox with value is 123456
+[2023-07-12 11:12:58,390] Pre-Condition - Step 07: Click to Register Button
+[2023-07-12 11:12:59,322] Pre-Condition - Step 08 : Verify register success
+[2023-07-12 11:42:25,543] Pre-Condition - Step 01 : Navigate to register Page
+[2023-07-12 11:42:26,840] Pre-Condition - Step 02 : Enter to FirstName textbox with value is Automation
+[2023-07-12 11:42:27,149] Pre-Condition - Step 03 : Enter to LastName textbox with value is FC
+[2023-07-12 11:42:27,381] Pre-Condition - Step 04 : Enter to email textbox with value is afc6015@mail.vn
+[2023-07-12 11:42:27,622] Pre-Condition - Step 05 : Enter to password textbox with value is 123456
+[2023-07-12 11:42:27,852] Pre-Condition - Step 06 : Enter to confirmPw textbox with value is 123456
+[2023-07-12 11:42:28,088] Pre-Condition - Step 07: Click to Register Button
+[2023-07-12 11:42:28,979] Pre-Condition - Step 08 : Verify register success
+[2023-07-12 12:21:47,875] Pre-Condition - Step 01 : Navigate to register Page
+[2023-07-12 12:21:49,241] Pre-Condition - Step 02 : Enter to FirstName textbox with value is Automation
+[2023-07-12 12:21:49,613] Pre-Condition - Step 03 : Enter to LastName textbox with value is FC
+[2023-07-12 12:21:49,946] Pre-Condition - Step 04 : Enter to email textbox with value is afc488@mail.vn
+[2023-07-12 12:21:50,264] Pre-Condition - Step 05 : Enter to password textbox with value is 123456
+[2023-07-12 12:21:50,576] Pre-Condition - Step 06 : Enter to confirmPw textbox with value is 123456
+[2023-07-12 12:21:50,899] Pre-Condition - Step 07: Click to Register Button
+[2023-07-12 12:21:51,882] Pre-Condition - Step 08 : Verify register success
+[2023-07-12 12:21:52,483] OS name = windows 10
+[2023-07-12 12:21:52,484] Driver instance name = chromedriver: chrome on windows (12fac5e2f37f421a1263c7141a1522e4)
+[2023-07-12 13:01:15,615] Pre-Condition - Step 01 : Navigate to register Page
+[2023-07-12 13:01:16,788] Pre-Condition - Step 02 : Enter to FirstName textbox with value is Automation
+[2023-07-12 13:01:17,007] Pre-Condition - Step 03 : Enter to LastName textbox with value is FC
+[2023-07-12 13:01:17,193] Pre-Condition - Step 04 : Enter to email textbox with value is afc1031@mail.vn
+[2023-07-12 13:01:17,367] Pre-Condition - Step 05 : Enter to password textbox with value is 123456
+[2023-07-12 13:01:17,540] Pre-Condition - Step 06 : Enter to confirmPw textbox with value is 123456
+[2023-07-12 13:01:17,708] Pre-Condition - Step 07: Click to Register Button
+[2023-07-12 13:01:18,687] Pre-Condition - Step 08 : Verify register success
+[2023-07-12 13:01:19,042] OS name = windows 10
+[2023-07-12 13:01:19,043] Driver instance name = chromedriver: chrome on windows (07550dbec976fd36ce8ee28b468634ff)
+[2023-07-12 16:42:29,058] Register - Step 01 : Navigate to register Page
+[2023-07-12 16:42:30,356] Register - Step 02 : Enter to FirstName textbox with value is Automation
+[2023-07-12 16:42:30,705] Register - Step 03 : Enter to LastName textbox with value is FC
+[2023-07-12 16:42:30,995] Register - Step 04 : Enter to email textbox with value is afc9298@mail.vn
+[2023-07-12 16:42:31,250] Register - Step 05 : Enter to password textbox with value is 123456
+[2023-07-12 16:42:31,555] Register - Step 06 : Enter to confirmPw textbox with value is 123456
+[2023-07-12 16:42:31,847] Register - Step 07: Click to Register Button
+[2023-07-12 16:42:32,785] Register - Step 08 : Verify register success
+[2023-07-12 16:42:32,904] Register - Step 09 : Go to HomePage
+[2023-07-12 16:42:33,764] Register - Step 01 : Navigate to Login Page
+[2023-07-12 16:42:34,323] Register - Step 02 : email  to FirstName textbox with value is afc9298@mail.vn
+[2023-07-12 16:42:34,542] Register - Step 03 : Enter to password textbox with value is 123456
+[2023-07-12 16:42:34,766] Register - Step 04: Click to Login Button
+[2023-07-12 16:42:35,707] Register - Step 05: Verify 'MyAccount' link is display
+[2023-07-12 16:42:35,849]  -------------------------- PASSED -------------------------- 
+[2023-07-12 16:42:35,850] Register - Step 06: Navigate to 'My Account' Page
+[2023-07-12 16:42:36,453] Register - Step 07: Verify  'My Account' Page is displayed
+[2023-07-12 16:42:36,582]  -------------------------- PASSED -------------------------- 
+[2023-07-12 16:44:19,513] Register - Step 01 : Navigate to register Page
+[2023-07-12 16:44:20,762] Register - Step 02 : Enter to FirstName textbox with value is Automation
+[2023-07-12 16:44:21,066] Register - Step 03 : Enter to LastName textbox with value is FC
+[2023-07-12 16:44:21,323] Register - Step 04 : Enter to email textbox with value is afc7757@mail.vn
+[2023-07-12 16:44:21,590] Register - Step 05 : Enter to password textbox with value is 123456
+[2023-07-12 16:44:21,819] Register - Step 06 : Enter to confirmPw textbox with value is 123456
+[2023-07-12 16:44:22,084] Register - Step 07: Click to Register Button
+[2023-07-12 16:44:23,059] Register - Step 08 : Verify register success
+[2023-07-12 16:44:23,167] Register - Step 09 : Go to HomePage
+[2023-07-12 16:44:23,961] Register - Step 01 : Navigate to Login Page
+[2023-07-12 16:44:24,587] Register - Step 02 : email  to FirstName textbox with value is afc7757@mail.vn
+[2023-07-12 16:44:24,821] Register - Step 03 : Enter to password textbox with value is 123456
+[2023-07-12 16:44:25,068] Register - Step 04: Click to Login Button
+[2023-07-12 16:44:25,993] Register - Step 05: Verify 'MyAccount' link is display
+[2023-07-12 16:44:26,155]  -------------------------- PASSED -------------------------- 
+[2023-07-12 16:44:26,155] Register - Step 06: Navigate to 'My Account' Page
+[2023-07-12 16:44:26,728] Register - Step 07: Verify  'My Account' Page is displayed
+[2023-07-12 16:44:26,853]  -------------------------- PASSED -------------------------- 
+[2023-07-12 16:55:44,787] Register - Step 01 : Navigate to register Page
+[2023-07-12 16:55:45,923] Register - Step 02 : Enter to FirstName textbox with value is Automation
+[2023-07-12 16:55:46,152] Register - Step 03 : Enter to LastName textbox with value is FC
+[2023-07-12 16:55:46,346] Register - Step 04 : Enter to email textbox with value is afc9107@mail.vn
+[2023-07-12 16:55:46,519] Register - Step 05 : Enter to password textbox with value is 123456
+[2023-07-12 16:55:46,712] Register - Step 06 : Enter to confirmPw textbox with value is 123456
+[2023-07-12 16:55:46,941] Register - Step 07: Click to Register Button
+[2023-07-12 16:55:47,808] Register - Step 08 : Verify register success
+[2023-07-12 16:55:47,913] Register - Step 09 : Go to HomePage
+[2023-07-12 16:55:48,585] Register - Step 01 : Navigate to Login Page
+[2023-07-12 16:55:49,103] Register - Step 02 : email  to FirstName textbox with value is afc9107@mail.vn
+[2023-07-12 16:55:49,282] Register - Step 03 : Enter to password textbox with value is 123456
+[2023-07-12 16:55:49,445] Register - Step 04: Click to Login Button
+[2023-07-12 16:55:50,284] Register - Step 05: Verify 'MyAccount' link is display
+[2023-07-12 16:55:50,409]  -------------------------- PASSED -------------------------- 
+[2023-07-12 16:55:50,410] Register - Step 06: Navigate to 'My Account' Page
+[2023-07-12 16:55:50,936] Register - Step 07: Verify  'My Account' Page is displayed
+[2023-07-12 16:55:51,020]  -------------------------- PASSED -------------------------- 
+[2023-07-13 15:05:19,749] Register - Step 01 : Navigate to register Page
+[2023-07-13 15:05:23,238] Register - Step 02 : Enter to FirstName textbox with value is Automation
+[2023-07-13 15:05:23,800] Register - Step 03 : Enter to LastName textbox with value is FC
+[2023-07-13 15:05:24,299] Register - Step 04 : Enter to email textbox with value is afc7190@mail.vn
+[2023-07-13 15:05:24,746] Register - Step 05 : Enter to password textbox with value is 123456
+[2023-07-13 15:05:25,086] Register - Step 06 : Enter to confirmPw textbox with value is 123456
+[2023-07-13 15:05:25,495] Register - Step 07: Click to Register Button
+[2023-07-13 15:05:27,076] Register - Step 08 : Verify register success
+[2023-07-13 15:05:27,279] Register - Step 09 : Go to HomePage
+[2023-07-13 15:05:28,593] Register - Step 01 : Navigate to Login Page
+[2023-07-13 15:05:29,329] Register - Step 02 : email  to FirstName textbox with value is afc7190@mail.vn
+[2023-07-13 15:05:29,671] Register - Step 03 : Enter to password textbox with value is 123456
+[2023-07-13 15:05:29,994] Register - Step 04: Click to Login Button
+[2023-07-13 15:55:42,190] Register - Step 01 : Navigate to register Page
+[2023-07-13 15:55:43,306] Register - Step 02 : Enter to FirstName textbox with value is Automation
+[2023-07-13 15:55:43,513] Register - Step 03 : Enter to LastName textbox with value is FC
+[2023-07-13 15:56:04,544] Register - Step 01 : Navigate to Login Page
+[2023-07-13 15:56:05,141] Register - Step 02 : email  to FirstName textbox with value is afc6216@mail.vn
+[2023-07-13 15:56:05,388] Register - Step 03 : Enter to password textbox with value is 123456
+[2023-07-13 15:56:05,634] Register - Step 04: Click to Login Button
+[2023-07-13 15:57:45,574] Register - Step 01 : Navigate to register Page
+[2023-07-13 15:57:46,733] Register - Step 02 : Enter to FirstName textbox with value is Automation
+[2023-07-13 15:57:46,949] Register - Step 03 : Enter to LastName textbox with value is FC
+[2023-07-13 15:58:07,855] Register - Step 01 : Navigate to Login Page
+[2023-07-13 15:58:08,417] Register - Step 02 : email  to FirstName textbox with value is afc6714@mail.vn
+[2023-07-13 15:58:08,615] Register - Step 03 : Enter to password textbox with value is 123456
+[2023-07-13 15:58:08,807] Register - Step 04: Click to Login Button
+[2023-07-13 16:07:50,024] Register - Step 01 : Navigate to register Page
+[2023-07-13 16:07:53,735] Register - Step 02 : Enter to FirstName textbox with value is Automation
+[2023-07-13 16:07:53,954] Register - Step 03 : Enter to LastName textbox with value is FC
+[2023-07-13 16:08:15,193] Register - Step 01 : Navigate to Login Page
+[2023-07-13 16:08:15,942] Register - Step 02 : email  to FirstName textbox with value is afc8517@mail.vn
+[2023-07-13 16:08:16,150] Register - Step 03 : Enter to password textbox with value is 123456
+[2023-07-13 16:08:16,358] Register - Step 04: Click to Login Button
+[2023-07-13 16:13:37,754] Register - Step 01 : Navigate to register Page
+[2023-07-13 16:13:38,547] Register - Step 02 : Enter to FirstName textbox with value is Automation
+[2023-07-13 16:13:38,870] Register - Step 03 : Enter to LastName textbox with value is FC
+[2023-07-13 16:14:00,066] Register - Step 01 : Navigate to Login Page
+[2023-07-13 16:14:00,714] Register - Step 02 : email  to FirstName textbox with value is afc5262@mail.vn
+[2023-07-13 16:14:00,939] Register - Step 03 : Enter to password textbox with value is 123456
+[2023-07-13 16:14:01,146] Register - Step 04: Click to Login Button
+[2023-07-13 16:14:28,899] Register - Step 01 : Navigate to register Page
+[2023-07-13 16:14:30,238] Register - Step 02 : Enter to FirstName textbox with value is Automation
+[2023-07-13 16:14:30,508] Register - Step 03 : Enter to LastName textbox with value is FC
+[2023-07-13 16:14:30,994] Register - Step 04 : Select birthday 23/January/1990
+[2023-07-13 16:14:30,995] Register - Step 04 : Enter to email textbox with value is afc1092@mail.vn
+[2023-07-13 16:14:31,241] Register - Step 05 : Enter to password textbox with value is 123456
+[2023-07-13 16:14:31,464] Register - Step 06 : Enter to confirmPw textbox with value is 123456
+[2023-07-13 16:14:31,701] Register - Step 07: Click to Register Button
+[2023-07-13 16:14:32,767] Register - Step 08 : Verify register success
+[2023-07-13 16:14:32,875] Register - Step 09 : Go to HomePage
+[2023-07-13 16:14:33,695] Register - Step 01 : Navigate to Login Page
+[2023-07-13 16:14:34,382] Register - Step 02 : email  to FirstName textbox with value is afc1092@mail.vn
+[2023-07-13 16:14:34,608] Register - Step 03 : Enter to password textbox with value is 123456
+[2023-07-13 16:14:34,835] Register - Step 04: Click to Login Button
+[2023-07-13 16:19:07,891] Register - Step 01 : Navigate to register Page
+[2023-07-13 16:19:09,565] Register - Step 02 : Enter to FirstName textbox with value is Automation
+[2023-07-13 16:19:10,012] Register - Step 03 : Enter to LastName textbox with value is FC
+[2023-07-13 16:19:31,375] Register - Step 01 : Navigate to Login Page
+[2023-07-13 16:19:31,975] Register - Step 02 : email  to FirstName textbox with value is afc5217@mail.vn
+[2023-07-13 16:19:32,198] Register - Step 03 : Enter to password textbox with value is 123456
+[2023-07-13 16:19:32,418] Register - Step 04: Click to Login Button
+[2023-07-13 16:19:33,004] Register - Step 05: Verify 'MyAccount' link is display
+[2023-07-13 16:26:36,286] Register - Step 01 : Navigate to register Page
+[2023-07-13 16:26:37,606] Register - Step 02 : Enter to FirstName textbox with value is Automation
+[2023-07-13 16:26:37,861] Register - Step 03 : Enter to LastName textbox with value is FC
+[2023-07-13 16:26:38,682] Register - Step 04 : Select birthday 23/January/1990
+[2023-07-13 16:26:38,683] Register - Step 04 : Enter to email textbox with value is afc1519@mail.vn
+[2023-07-13 16:26:38,883] Register - Step 05 : Enter to password textbox with value is 123456
+[2023-07-13 16:26:39,083] Register - Step 06 : Enter to confirmPw textbox with value is 123456
+[2023-07-13 16:26:39,282] Register - Step 07: Click to Register Button
+[2023-07-13 16:26:40,245] Register - Step 08 : Verify register success
+[2023-07-13 16:26:40,337] Register - Step 09 : Go to HomePage
+[2023-07-13 16:26:41,241] Register - Step 01 : Navigate to Login Page
+[2023-07-13 16:26:41,837] Register - Step 02 : email  to FirstName textbox with value is afc1519@mail.vn
+[2023-07-13 16:26:42,025] Register - Step 03 : Enter to password textbox with value is 123456
+[2023-07-13 16:26:42,247] Register - Step 04: Click to Login Button
+[2023-07-13 16:26:43,216] Register - Step 05: Verify 'MyAccount' link is display
+[2023-07-13 16:26:43,335]  -------------------------- PASSED -------------------------- 
+[2023-07-13 16:26:43,336] Register - Step 06: Navigate to 'My Account' Page
+[2023-07-13 16:26:43,916] Register - Step 07: Verify  'My Account' Page is displayed
+[2023-07-13 16:26:43,999]  -------------------------- PASSED -------------------------- 
+[2023-07-14 01:02:10,224] Register - Step 01 : Navigate to register Page
+[2023-07-14 01:02:11,520] Register - Step 02 : Enter to FirstName textbox with value is Automation
+[2023-07-14 01:02:11,710] Register - Step 03 : Enter to LastName textbox with value is FC
+[2023-07-14 01:02:12,425] Register - Step 04 : Select birthday 23/October/1990
+[2023-07-14 01:02:12,552] Register - Step 04 : Enter to email textbox with value is afc1343@mail.vn
+[2023-07-14 01:02:12,716] Register - Step 05 : Enter to password textbox with value is 123456
+[2023-07-14 01:02:12,894] Register - Step 06 : Enter to confirmPw textbox with value is 123456
+[2023-07-14 01:02:13,065] Register - Step 07: Click to Register Button
+[2023-07-14 01:02:13,923] Register - Step 08 : Verify register success
+[2023-07-14 01:02:14,014] Register - Step 09 : Go to HomePage
+[2023-07-14 01:02:14,693] Register - Step 01 : Navigate to Login Page
+[2023-07-14 01:02:15,184] Register - Step 02 : email  to FirstName textbox with value is afc1343@mail.vn
+[2023-07-14 01:02:15,328] Register - Step 03 : Enter to password textbox with value is 123456
+[2023-07-14 01:02:15,478] Register - Step 04: Click to Login Button
+[2023-07-14 01:02:16,339] Register - Step 05: Verify 'MyAccount' link is display
+[2023-07-14 01:02:16,429]  -------------------------- PASSED -------------------------- 
+[2023-07-14 01:02:16,429] Register - Step 06: Navigate to 'My Account' Page
+[2023-07-14 01:02:16,956] Register - Step 07: Verify  'My Account' Page is displayed
+[2023-07-14 01:02:17,035]  -------------------------- PASSED -------------------------- 
+[2023-07-14 01:02:32,659] Register - Step 01 : Navigate to register Page
+[2023-07-14 01:02:33,909] Register - Step 02 : Enter to FirstName textbox with value is Automation
+[2023-07-14 01:02:34,100] Register - Step 03 : Enter to LastName textbox with value is FC
+[2023-07-14 01:02:34,815] Register - Step 04 : Select birthday 23/October/1990
+[2023-07-14 01:02:34,943] Register - Step 04 : Enter to email textbox with value is afc4012@mail.vn
+[2023-07-14 01:02:35,114] Register - Step 05 : Enter to password textbox with value is 123456
+[2023-07-14 01:02:35,287] Register - Step 06 : Enter to confirmPw textbox with value is 123456
+[2023-07-14 01:02:35,463] Register - Step 07: Click to Register Button
+[2023-07-14 01:02:36,275] Register - Step 08 : Verify register success
+[2023-07-14 01:02:36,361] Register - Step 09 : Go to HomePage
+[2023-07-14 01:02:37,021] Register - Step 01 : Navigate to Login Page
+[2023-07-14 01:02:37,526] Register - Step 02 : email  to FirstName textbox with value is afc4012@mail.vn
+[2023-07-14 01:02:37,709] Register - Step 03 : Enter to password textbox with value is 123456
+[2023-07-14 01:02:37,883] Register - Step 04: Click to Login Button
+[2023-07-14 01:02:38,718] Register - Step 05: Verify 'MyAccount' link is display
+[2023-07-14 01:02:38,824]  -------------------------- PASSED -------------------------- 
+[2023-07-14 01:02:38,824] Register - Step 06: Navigate to 'My Account' Page
+[2023-07-14 01:02:39,336] Register - Step 07: Verify  'My Account' Page is displayed
+[2023-07-14 01:02:39,425]  -------------------------- PASSED -------------------------- 
+[2023-07-14 01:14:26,705] Register - Step 01 : Navigate to register Page
+[2023-07-14 01:14:28,006] Register - Step 02 : Enter to FirstName textbox with value is Automation
+[2023-07-14 01:14:28,194] Register - Step 03 : Enter to LastName textbox with value is FC
+[2023-07-14 01:14:28,880] Register - Step 04 : Select birthday 23/October/1990
+[2023-07-14 01:14:29,010] Register - Step 04 : Enter to email textbox with value is afc3884@mail.vn
+[2023-07-14 01:14:29,182] Register - Step 05 : Enter to password textbox with value is 123456
+[2023-07-14 01:14:29,346] Register - Step 06 : Enter to confirmPw textbox with value is 123456
+[2023-07-14 01:14:29,523] Register - Step 07: Click to Register Button
+[2023-07-14 01:14:30,398] Register - Step 08 : Verify register success
+[2023-07-14 01:14:30,484] Register - Step 09 : Go to HomePage
+[2023-07-14 01:14:31,155] Register - Step 01 : Navigate to Login Page
+[2023-07-14 01:14:31,778] Register - Step 02 : email  to FirstName textbox with value is afc3884@mail.vn
+[2023-07-14 01:14:31,935] Register - Step 03 : Enter to password textbox with value is 123456
+[2023-07-14 01:14:32,084] Register - Step 04: Click to Login Button
+[2023-07-14 01:14:32,958] Register - Step 05: Verify 'MyAccount' link is display
+[2023-07-14 01:14:33,049]  -------------------------- PASSED -------------------------- 
+[2023-07-14 01:14:33,049] Register - Step 06: Navigate to 'My Account' Page
+[2023-07-14 01:14:33,568] Register - Step 07: Verify  'My Account' Page is displayed
+[2023-07-14 01:14:33,654]  -------------------------- PASSED -------------------------- 
+[2023-07-14 01:15:40,442] Register - Step 01 : Navigate to register Page
+[2023-07-14 01:15:41,207] Register - Step 02 : Enter to FirstName textbox with value is Automation
+[2023-07-14 01:15:41,415] Register - Step 03 : Enter to LastName textbox with value is FC
+[2023-07-14 01:15:42,139] Register - Step 04 : Select birthday 23/October/1990
+[2023-07-14 01:15:42,139] Register - Step 04 : Enter to email textbox with value is afc8214@mail.vn
+[2023-07-14 01:15:42,314] Register - Step 05 : Enter to password textbox with value is 123456
+[2023-07-14 01:15:42,486] Register - Step 06 : Enter to confirmPw textbox with value is 123456
+[2023-07-14 01:15:42,658] Register - Step 07: Click to Register Button
+[2023-07-14 01:15:43,537] Register - Step 08 : Verify register success
+[2023-07-14 01:15:43,617] Register - Step 09 : Go to HomePage
+[2023-07-14 01:15:44,328] Register - Step 01 : Navigate to Login Page
+[2023-07-14 01:15:44,846] Register - Step 02 : email  to FirstName textbox with value is afc8214@mail.vn
+[2023-07-14 01:15:45,036] Register - Step 03 : Enter to password textbox with value is 123456
+[2023-07-14 01:15:45,226] Register - Step 04: Click to Login Button
+[2023-07-14 01:15:46,106] Register - Step 05: Verify 'MyAccount' link is display
+[2023-07-14 01:15:46,230]  -------------------------- PASSED -------------------------- 
+[2023-07-14 01:15:46,230] Register - Step 06: Navigate to 'My Account' Page
+[2023-07-14 01:15:46,746] Register - Step 07: Verify  'My Account' Page is displayed
+[2023-07-14 01:15:46,836]  -------------------------- PASSED -------------------------- 
+[2023-07-14 01:16:18,167] Register - Step 01 : Navigate to register Page
+[2023-07-14 01:16:19,465] Register - Step 02 : Enter to FirstName textbox with value is Automation
+[2023-07-14 01:16:19,666] Register - Step 03 : Enter to LastName textbox with value is FC
+[2023-07-14 01:16:20,419] Register - Step 04 : Select birthday 23/October/1990
+[2023-07-14 01:16:20,553] Register - Step 04 : Enter to email textbox with value is afc2760@mail.vn
+[2023-07-14 01:16:20,746] Register - Step 05 : Enter to password textbox with value is 123456
+[2023-07-14 01:16:20,957] Register - Step 06 : Enter to confirmPw textbox with value is 123456
+[2023-07-14 01:16:21,168] Register - Step 07: Click to Register Button
+[2023-07-14 01:16:22,046] Register - Step 08 : Verify register success
+[2023-07-14 01:16:22,132] Register - Step 09 : Go to HomePage
+[2023-07-14 01:16:22,827] Register - Step 01 : Navigate to Login Page
+[2023-07-14 01:16:23,353] Register - Step 02 : email  to FirstName textbox with value is afc2760@mail.vn
+[2023-07-14 01:16:23,533] Register - Step 03 : Enter to password textbox with value is 123456
+[2023-07-14 01:16:23,734] Register - Step 04: Click to Login Button
+[2023-07-14 01:16:24,613] Register - Step 05: Verify 'MyAccount' link is display
+[2023-07-14 01:16:24,726]  -------------------------- PASSED -------------------------- 
+[2023-07-14 01:16:24,726] Register - Step 06: Navigate to 'My Account' Page
+[2023-07-14 01:16:25,269] Register - Step 07: Verify  'My Account' Page is displayed
+[2023-07-14 01:16:25,362]  -------------------------- PASSED -------------------------- 
+[2023-07-14 01:17:02,775] Register - Step 01 : Navigate to register Page
+[2023-07-14 01:17:04,104] Register - Step 02 : Enter to FirstName textbox with value is Automation
+[2023-07-14 01:17:04,312] Register - Step 03 : Enter to LastName textbox with value is FC
+[2023-07-14 01:17:05,071] Register - Step 04 : Select birthday 23/October/1990
+[2023-07-14 01:17:05,170] Register - Step 04 : Enter to email textbox with value is afc5330@mail.vn
+[2023-07-14 01:17:05,381] Register - Step 05 : Enter to password textbox with value is 123456
+[2023-07-14 01:17:05,588] Register - Step 06 : Enter to confirmPw textbox with value is 123456
+[2023-07-14 01:17:05,789] Register - Step 07: Click to Register Button
+[2023-07-14 01:17:06,660] Register - Step 08 : Verify register success
+[2023-07-14 01:17:06,747] Register - Step 09 : Go to HomePage
+[2023-07-14 01:17:07,466] Register - Step 01 : Navigate to Login Page
+[2023-07-14 01:17:08,002] Register - Step 02 : email  to FirstName textbox with value is afc5330@mail.vn
+[2023-07-14 01:17:08,200] Register - Step 03 : Enter to password textbox with value is 123456
+[2023-07-14 01:17:08,388] Register - Step 04: Click to Login Button
+[2023-07-14 01:17:09,241] Register - Step 05: Verify 'MyAccount' link is display
+[2023-07-14 01:17:09,359]  -------------------------- PASSED -------------------------- 
+[2023-07-14 01:17:09,360] Register - Step 06: Navigate to 'My Account' Page
+[2023-07-14 01:17:09,876] Register - Step 07: Verify  'My Account' Page is displayed
+[2023-07-14 01:17:09,967]  -------------------------- PASSED -------------------------- 
+[2023-07-14 13:19:01,051] Register - Step 01 : Navigate to register Page
+[2023-07-14 13:19:02,648] Register - Step 02 : Enter to FirstName textbox with value is Automation
+[2023-07-14 13:19:02,910] Register - Step 03 : Enter to LastName textbox with value is FC
+[2023-07-14 13:19:04,162] Register - Step 04 : Select birthday 23/October/1990
+[2023-07-14 13:19:04,265] Register - Step 04 : Enter to email textbox with value is afc2148@mail.vn
+[2023-07-14 13:19:04,483] Register - Step 05 : Enter to password textbox with value is 123456
+[2023-07-14 13:19:04,715] Register - Step 06 : Enter to confirmPw textbox with value is 123456
+[2023-07-14 13:19:04,922] Register - Step 07: Click to Register Button
+[2023-07-14 13:19:05,848] Register - Step 08 : Verify register success
+[2023-07-14 13:19:05,961] Register - Step 09 : Go to HomePage
+[2023-07-14 13:19:06,821] Register - Step 01 : Navigate to Login Page
+[2023-07-14 13:19:07,430] Register - Step 02 : email  to Email textbox with value is afc2148@mail.vn
+[2023-07-14 13:19:07,710] Register - Step 03 : Enter to password textbox with value is 123456
+[2023-07-14 13:19:07,924] Register - Step 04: Click to Login Button
+[2023-07-14 13:19:08,847] Register - Step 05: Verify 'MyAccount' link is display
+[2023-07-14 13:19:08,972]  -------------------------- PASSED -------------------------- 
+[2023-07-14 13:19:08,983] My Account - Step 01: Navigate to 'My Account' Page
+[2023-07-14 13:19:09,601] My Account - Step 02: Verify  'My Account' Page is displayed
+[2023-07-14 13:19:09,712]  -------------------------- PASSED -------------------------- 
+[2023-07-14 13:19:09,712] My Account - Step 03: Verify  'My Account' Page is displayed
+[2023-07-14 13:19:09,787] My Account - Step 04: Verify  lastname is displayed correct
+[2023-07-14 13:19:09,883] My Account - Step 05: Verify  email is displayed correct
+[2023-07-23 01:45:12,394] Precondition - Step 01 : Open browser and admin URL
+[2023-07-23 01:45:20,144] Precondition - Step 02 : Enter to username textbox with valueautomationVa
+[2023-07-23 01:45:20,338] Precondition - Step 03 : Enter to pw textbox with valueautomationVa
+[2023-07-23 01:45:20,458] Precondition - Step 04 : Click to login button
+[2023-07-23 01:45:26,165] Create Post - Step 01 :Click to 'Post' menu link 
+[2023-07-23 01:45:28,807] Create Post - Step 02 :Click to ' Add new' Button
+[2023-07-23 01:45:33,190] Create Post - Step 03 : Enter post title Live Coding Title1407
+[2023-07-23 01:45:36,335] Create Post - Step 04: Enter post body Live Coding Body1407
+[2023-07-23 01:45:39,212] Create Post - Step 06 : Click to Publish button
+[2023-07-23 01:45:39,664] Create Post - Step 07 : Click to Confirm Publish button
+[2023-07-23 01:45:41,330] Create Post - Step 08 : Verify 'Post Published' message is displayed
+[2023-07-23 01:45:44,238]  -------------------------- PASSED -------------------------- 
+[2023-07-23 01:45:44,442] Search Post - Step 01 : Open 'Search Post' page
+[2023-07-28 01:33:06,680] Precondition - Step 01 : Open browser and admin URL
+[2023-07-28 01:33:14,688] Precondition - Step 02 : Enter to username textbox with valueautomationVa
+[2023-07-28 01:33:14,817] Precondition - Step 03 : Enter to pw textbox with valueautomationVa
+[2023-07-28 01:33:14,909] Precondition - Step 04 : Click to login button
+[2023-07-28 01:33:19,536] Create Post - Step 01 :Click to 'Post' menu link 
+[2023-07-28 01:33:21,943] Create Post - Step 02 :Click to ' Add new' Button
+[2023-07-28 01:33:26,773] Create Post - Step 03 : Enter post title Live Coding Title401
+[2023-07-28 01:33:28,378] Create Post - Step 04: Enter post body Live Coding Body401
+[2023-07-28 01:33:30,397] Create Post - Step 06 : Click to Publish button
+[2023-07-28 01:33:30,742] Create Post - Step 07 : Click to Confirm Publish button
+[2023-07-28 01:33:31,189] Create Post - Step 08 : Verify 'Post Published' message is displayed
+[2023-07-28 01:33:33,794]  -------------------------- PASSED -------------------------- 
+[2023-07-28 01:33:34,037] Search Post - Step 01 : Open 'Search Post' page
+[2023-07-28 01:33:36,769] Search Post - Step 02 : Enter to Search Post
+[2023-07-28 01:33:37,066] Search Post - Step 03 : Click to 'Search Post' button
+[2023-07-28 01:33:39,906] Search Post - Step 04 : Verify Search table contains Live Coding Title401
+[2023-07-28 01:42:22,992] Precondition - Step 01 : Open browser and admin URL
+[2023-07-28 01:42:28,867] Precondition - RANDOM NUMBER3099
+[2023-07-28 01:42:28,867] Precondition - Step 02 : Enter to username textbox with valueautomationVa
+[2023-07-28 01:42:29,013] Precondition - Step 03 : Enter to pw textbox with valueautomationVa
+[2023-07-28 01:42:29,105] Precondition - Step 04 : Click to login button
+[2023-07-28 01:42:32,653] Create Post - Step 01 :Click to 'Post' menu link 
+[2023-07-28 01:42:35,034] Create Post - Step 02 :Click to ' Add new' Button
+[2023-07-28 01:42:39,602] Create Post - Step 03 : Enter post title Live Coding Title3099
+[2023-07-28 01:42:40,754] Create Post - Step 04: Enter post body Live Coding Body3099
+[2023-07-28 01:42:43,259] Create Post - Step 06 : Click to Publish button
+[2023-07-28 01:42:43,651] Create Post - Step 07 : Click to Confirm Publish button
+[2023-07-28 01:42:44,090] Create Post - Step 08 : Verify 'Post Published' message is displayed
+[2023-07-28 01:42:47,366]  -------------------------- PASSED -------------------------- 
+[2023-07-28 01:42:47,530] Search Post - Step 01 : Open 'Search Post' page
+[2023-07-28 01:42:50,347] Search Post - Step 02 : Enter to Search Post
+[2023-07-28 01:42:50,651] Search Post - Step 03 : Click to 'Search Post' button
+[2023-07-28 01:42:53,580] Search Post - Step 04 : Verify Search table contains Live Coding Title3099
+[2023-07-28 01:46:00,723] Precondition - Step 01 : Open browser and admin URL
+[2023-07-28 01:46:05,082] Precondition - RANDOM NUMBER6224
+[2023-07-28 01:46:05,083] Precondition - Step 02 : Enter to username textbox with valueautomationVa
+[2023-07-28 01:46:05,226] Precondition - Step 03 : Enter to pw textbox with valueautomationVa
+[2023-07-28 01:46:05,321] Precondition - Step 04 : Click to login button
+[2023-07-28 01:46:08,304] Create Post - Step 01 :Click to 'Post' menu link 
+[2023-07-28 01:46:10,436] Create Post - Step 02 :Click to ' Add new' Button
+[2023-07-28 01:46:14,534] Create Post - Step 03 : Enter post title Live Coding Title6224
+[2023-07-28 01:46:16,005] Create Post - Step 04: Enter post body Live Coding Body6224
+[2023-07-28 01:46:18,065] Create Post - Step 06 : Click to Publish button
+[2023-07-28 01:46:18,441] Create Post - Step 07 : Click to Confirm Publish button
+[2023-07-28 01:46:19,478] Create Post - Step 08 : Verify 'Post Published' message is displayed
+[2023-07-28 01:46:22,386]  -------------------------- PASSED -------------------------- 
+[2023-07-28 01:46:22,545] Search Post - Step 01 : Open 'Search Post' page
+[2023-07-28 01:46:25,353] Search Post - Step 02 : Enter to Search Post
+[2023-07-28 01:46:25,621] Search Post - Step 03 : Click to 'Search Post' button
+[2023-07-28 01:46:28,524] Search Post - Step 04 : Verify Search table contains Live Coding Title6224
+[2023-07-28 01:46:28,727]  -------------------------- PASSED -------------------------- 
+[2023-07-28 01:46:28,728] Search Post - Step 05 : Verify Search table contains 
+[2023-07-28 01:49:15,408] Precondition - Step 01 : Open browser and admin URL
+[2023-07-28 01:49:20,233] Precondition - RANDOM NUMBER5792
+[2023-07-28 01:49:20,233] Precondition - Step 02 : Enter to username textbox with valueautomationVa
+[2023-07-28 01:49:20,379] Precondition - Step 03 : Enter to pw textbox with valueautomationVa
+[2023-07-28 01:49:20,470] Precondition - Step 04 : Click to login button
+[2023-07-28 01:49:24,009] Create Post - Step 01 :Click to 'Post' menu link 
+[2023-07-28 01:49:26,449] Create Post - Step 02 :Click to ' Add new' Button
+[2023-07-28 01:49:30,698] Create Post - Step 03 : Enter post title Live Coding Title5792
+[2023-07-28 01:49:32,099] Create Post - Step 04: Enter post body Live Coding Body5792
+[2023-07-28 01:49:34,729] Create Post - Step 06 : Click to Publish button
+[2023-07-28 01:49:35,088] Create Post - Step 07 : Click to Confirm Publish button
+[2023-07-28 01:49:36,067] Create Post - Step 08 : Verify 'Post Published' message is displayed
+[2023-07-28 01:49:39,202]  -------------------------- PASSED -------------------------- 
+[2023-07-28 01:49:39,380] Search Post - Step 01 : Open 'Search Post' page
+[2023-07-28 01:49:42,263] Search Post - Step 02 : Enter to Search Post
+[2023-07-28 01:49:42,595] Search Post - Step 03 : Click to 'Search Post' button
+[2023-07-28 01:49:45,607] Search Post - Step 04 : Verify Search table contains Live Coding Title5792
+[2023-07-28 01:49:45,817]  -------------------------- PASSED -------------------------- 
+[2023-07-28 01:49:45,817] Search Post - Step 05 : Verify Search table contains automationVa
+[2023-07-28 01:49:45,976]  -------------------------- PASSED -------------------------- 
+[2023-07-28 01:49:45,976] Search Post - Step 06 : Open End user site
+[2023-07-28 01:49:48,231] Search Post - Step 07 : Verify Post info displayed at HomePage
+[2023-07-28 01:49:48,382]  -------------------------- PASSED -------------------------- 
+[2023-07-28 01:49:48,499]  -------------------------- PASSED -------------------------- 
+[2023-07-28 01:49:48,623]  -------------------------- PASSED -------------------------- 
+[2023-07-28 02:02:11,278] Precondition - Step 01 : Open browser and admin URL
+[2023-07-28 02:02:17,306] Precondition - RANDOM NUMBER2718
+[2023-07-28 02:02:17,306] Precondition - Step 02 : Enter to username textbox with valueautomationVa
+[2023-07-28 02:02:17,435] Precondition - Step 03 : Enter to pw textbox with valueautomationVa
+[2023-07-28 02:02:17,529] Precondition - Step 04 : Click to login button
+[2023-07-28 02:02:20,644] Create Post - Step 01 :Click to 'Post' menu link 
+[2023-07-28 02:02:22,924] Create Post - Step 02 :Click to ' Add new' Button
+[2023-07-28 02:02:27,351] Create Post - Step 03 : Enter post title Live Coding Title2718
+[2023-07-28 02:02:29,887] Create Post - Step 04: Enter post body Live Coding Body2718
+[2023-07-28 02:02:32,303] Create Post - Step 06 : Click to Publish button
+[2023-07-28 02:02:32,739] Create Post - Step 07 : Click to Confirm Publish button
+[2023-07-28 02:02:34,195] Create Post - Step 08 : Verify 'Post Published' message is displayed
+[2023-07-28 02:02:36,712]  -------------------------- PASSED -------------------------- 
+[2023-07-28 02:02:36,910] Search Post - Step 01 : Open 'Search Post' page
+[2023-07-28 02:02:39,906] Search Post - Step 02 : Enter to Search Post
+[2023-07-28 02:02:40,241] Search Post - Step 03 : Click to 'Search Post' button
+[2023-07-28 02:02:43,426] Search Post - Step 04 : Verify Search table contains Live Coding Title2718
+[2023-07-28 02:02:43,592]  -------------------------- PASSED -------------------------- 
+[2023-07-28 02:02:43,592] Search Post - Step 05 : Verify Search table contains automationVa
+[2023-07-28 02:02:43,825]  -------------------------- PASSED -------------------------- 
+[2023-07-28 02:02:43,825] Search Post - Step 06 : Open End user site
+[2023-07-28 02:02:46,425] Search Post - Step 07 : Verify Post info displayed at HomePage
+[2023-07-28 02:02:46,570]  -------------------------- PASSED -------------------------- 
+[2023-07-28 02:02:46,725]  -------------------------- PASSED -------------------------- 
+[2023-07-28 02:02:46,884]  -------------------------- PASSED -------------------------- 
+[2023-07-28 02:02:47,028]  -------------------------- PASSED -------------------------- 
+[2023-07-28 02:02:47,028] Search Post - Step 08 : Click to post title
+[2023-07-28 02:02:49,629]  -------------------------- PASSED -------------------------- 
+[2023-07-28 02:02:49,751]  -------------------------- PASSED -------------------------- 
+[2023-07-28 02:02:49,893]  -------------------------- PASSED -------------------------- 
+[2023-07-28 02:02:50,019]  -------------------------- PASSED -------------------------- 
+[2023-07-28 23:18:05,340] Precondition - Step 01 : Open browser and admin URL
+[2023-07-28 23:18:16,017] Precondition - RANDOM NUMBER3705
+[2023-07-28 23:18:16,018] Precondition - Step 02 : Enter to username textbox with valueautomationVa
+[2023-07-28 23:18:16,354] Precondition - Step 03 : Enter to pw textbox with valueautomationVa
+[2023-07-28 23:18:16,595] Precondition - Step 04 : Click to login button
+[2023-07-28 23:18:23,165] Create Post - Step 01 :Click to 'Post' menu link 
+[2023-07-28 23:18:26,230] Create Post - Step 02 :Click to ' Add new' Button
+[2023-07-28 23:18:34,574] Create Post - Step 03 : Enter post title Live Coding Title3705
+[2023-07-28 23:18:37,851] Create Post - Step 04: Enter post body Live Coding Body3705
+[2023-07-28 23:18:40,002] Create Post - Step 06 : Click to Publish button
+[2023-07-28 23:18:40,501] Create Post - Step 07 : Click to Confirm Publish button
+[2023-07-28 23:18:43,988] Create Post - Step 08 : Verify 'Post Published' message is displayed
+[2023-07-28 23:18:46,530]  -------------------------- PASSED -------------------------- 
+[2023-07-28 23:18:46,879] Search Post - Step 01 : Open 'Search Post' page
+[2023-07-28 23:18:50,243] Search Post - Step 02 : Enter to Search Post
+[2023-07-28 23:18:50,679] Search Post - Step 03 : Click to 'Search Post' button
+[2023-07-28 23:18:54,330] Search Post - Step 04 : Verify Search table contains Live Coding Title3705
+[2023-07-28 23:18:54,548]  -------------------------- PASSED -------------------------- 
+[2023-07-28 23:18:54,548] Search Post - Step 05 : Verify Search table contains automationVa
+[2023-07-28 23:18:54,738]  -------------------------- PASSED -------------------------- 
+[2023-07-28 23:18:54,739] Search Post - Step 06 : Open End user site
+[2023-07-28 23:18:58,965] Search Post - Step 07 : Verify Post info displayed at HomePage
+[2023-07-28 23:18:59,265]  -------------------------- PASSED -------------------------- 
+[2023-07-28 23:18:59,454]  -------------------------- PASSED -------------------------- 
+[2023-07-28 23:18:59,612]  -------------------------- PASSED -------------------------- 
+[2023-07-28 23:18:59,758]  -------------------------- PASSED -------------------------- 
+[2023-07-28 23:18:59,759] Search Post - Step 08 : Click to post title
+[2023-07-28 23:19:04,327]  -------------------------- PASSED -------------------------- 
+[2023-07-28 23:19:04,541]  -------------------------- PASSED -------------------------- 
+[2023-07-28 23:19:04,729]  -------------------------- PASSED -------------------------- 
+[2023-07-28 23:19:04,870]  -------------------------- PASSED -------------------------- 
+[2023-07-28 23:19:04,882] Edit Post - Step 01 :Open Admin site
+[2023-07-28 23:19:09,200] Edit Post - Step 02 : Click to Post menu link
+[2023-07-28 23:19:41,336] Precondition - Step 01 : Open browser and admin URL
+[2023-07-28 23:19:50,293] Precondition - RANDOM NUMBER9052
+[2023-07-28 23:19:50,294] Precondition - Step 02 : Enter to username textbox with valueautomationVa
+[2023-07-28 23:19:50,495] Precondition - Step 03 : Enter to pw textbox with valueautomationVa
+[2023-07-28 23:19:50,643] Precondition - Step 04 : Click to login button
+[2023-07-28 23:19:55,301] Create Post - Step 01 :Click to 'Post' menu link 
+[2023-07-28 23:19:58,906] Create Post - Step 02 :Click to ' Add new' Button
+[2023-07-28 23:20:03,937] Create Post - Step 03 : Enter post title Live Coding Title9052
+[2023-07-28 23:20:07,154] Create Post - Step 04: Enter post body Live Coding Body9052
+[2023-07-28 23:20:09,652] Create Post - Step 06 : Click to Publish button
+[2023-07-28 23:20:10,118] Create Post - Step 07 : Click to Confirm Publish button
+[2023-07-28 23:20:11,752] Create Post - Step 08 : Verify 'Post Published' message is displayed
+[2023-07-28 23:20:15,005]  -------------------------- PASSED -------------------------- 
+[2023-07-28 23:20:15,218] Search Post - Step 01 : Open 'Search Post' page
+[2023-07-28 23:20:18,522] Search Post - Step 02 : Enter to Search Post
+[2023-07-28 23:20:18,915] Search Post - Step 03 : Click to 'Search Post' button
+[2023-07-28 23:20:22,328] Search Post - Step 04 : Verify Search table contains Live Coding Title9052
+[2023-07-28 23:20:22,524]  -------------------------- PASSED -------------------------- 
+[2023-07-28 23:20:22,524] Search Post - Step 05 : Verify Search table contains automationVa
+[2023-07-28 23:20:22,767]  -------------------------- PASSED -------------------------- 
+[2023-07-28 23:20:22,767] Search Post - Step 06 : Open End user site
+[2023-07-28 23:20:26,491] Search Post - Step 07 : Verify Post info displayed at HomePage
+[2023-07-28 23:20:26,694]  -------------------------- PASSED -------------------------- 
+[2023-07-28 23:20:26,855]  -------------------------- PASSED -------------------------- 
+[2023-07-28 23:20:27,100]  -------------------------- PASSED -------------------------- 
+[2023-07-28 23:20:27,277]  -------------------------- PASSED -------------------------- 
+[2023-07-28 23:20:27,277] Search Post - Step 08 : Click to post title
+[2023-07-28 23:20:30,142]  -------------------------- PASSED -------------------------- 
+[2023-07-28 23:20:30,263]  -------------------------- PASSED -------------------------- 
+[2023-07-28 23:20:30,409]  -------------------------- PASSED -------------------------- 
+[2023-07-28 23:20:30,532]  -------------------------- PASSED -------------------------- 
+[2023-07-28 23:20:30,547] Edit Post - Step 01 :Open Admin site
+[2023-07-28 23:20:34,132] Edit Post - Step 02 : Click to Post menu link
+[2023-07-28 23:20:51,265] Precondition - Step 01 : Open browser and admin URL
+[2023-07-28 23:21:03,425] Precondition - RANDOM NUMBER6933
+[2023-07-28 23:21:03,425] Precondition - Step 02 : Enter to username textbox with valueautomationVa
+[2023-07-28 23:21:03,699] Precondition - Step 03 : Enter to pw textbox with valueautomationVa
+[2023-07-28 23:21:04,007] Precondition - Step 04 : Click to login button
+[2023-07-28 23:21:11,159] Create Post - Step 01 :Click to 'Post' menu link 
+[2023-07-28 23:21:15,789] Create Post - Step 02 :Click to ' Add new' Button
+[2023-07-28 23:21:24,287] Create Post - Step 03 : Enter post title Live Coding Title6933
+[2023-07-28 23:21:32,155] Create Post - Step 04: Enter post body Live Coding Body6933
+[2023-07-28 23:21:34,033] Create Post - Step 06 : Click to Publish button
+[2023-07-28 23:21:34,427] Create Post - Step 07 : Click to Confirm Publish button
+[2023-07-28 23:21:37,764] Create Post - Step 08 : Verify 'Post Published' message is displayed
+[2023-07-28 23:21:42,004]  -------------------------- PASSED -------------------------- 
+[2023-07-28 23:21:42,266] Search Post - Step 01 : Open 'Search Post' page
+[2023-07-28 23:21:45,817] Search Post - Step 02 : Enter to Search Post
+[2023-07-28 23:21:46,245] Search Post - Step 03 : Click to 'Search Post' button
+[2023-07-28 23:21:50,262] Search Post - Step 04 : Verify Search table contains Live Coding Title6933
+[2023-07-28 23:21:50,451]  -------------------------- PASSED -------------------------- 
+[2023-07-28 23:21:50,452] Search Post - Step 05 : Verify Search table contains automationVa
+[2023-07-28 23:21:50,631]  -------------------------- PASSED -------------------------- 
+[2023-07-28 23:21:50,632] Search Post - Step 06 : Open End user site
+[2023-07-28 23:21:54,269] Search Post - Step 07 : Verify Post info displayed at HomePage
+[2023-07-28 23:21:54,451]  -------------------------- PASSED -------------------------- 
+[2023-07-28 23:21:54,617]  -------------------------- PASSED -------------------------- 
+[2023-07-28 23:21:54,770]  -------------------------- PASSED -------------------------- 
+[2023-07-28 23:21:54,911]  -------------------------- PASSED -------------------------- 
+[2023-07-28 23:21:54,911] Search Post - Step 08 : Click to post title
+[2023-07-28 23:21:57,788]  -------------------------- PASSED -------------------------- 
+[2023-07-28 23:21:57,919]  -------------------------- PASSED -------------------------- 
+[2023-07-28 23:21:58,062]  -------------------------- PASSED -------------------------- 
+[2023-07-28 23:21:58,204]  -------------------------- PASSED -------------------------- 
+[2023-07-28 23:21:58,216] Edit Post - Step 01 :Open Admin site
+[2023-07-28 23:22:02,509] Precondition - Step 02 : Enter to username textbox with valueautomationVa
+[2023-07-28 23:22:02,954] Precondition - Step 03 : Enter to pw textbox with valueautomationVa
+[2023-07-28 23:22:03,081] Precondition - Step 04 : Click to login button
+[2023-07-28 23:22:05,698] Edit Post - Step 02 : Click to Post menu link
+[2023-07-28 23:31:13,673] Precondition - Step 01 : Open browser and admin URL
+[2023-07-28 23:31:20,054] Precondition - RANDOM NUMBER3105
+[2023-07-28 23:31:20,055] Precondition - Step 02 : Enter to username textbox with valueautomationVa
+[2023-07-28 23:31:20,198] Precondition - Step 03 : Enter to pw textbox with valueautomationVa
+[2023-07-28 23:31:20,290] Precondition - Step 04 : Click to login button
+[2023-07-28 23:31:24,305] Create Post - Step 01 :Click to 'Post' menu link 
+[2023-07-28 23:31:27,674] Create Post - Step 02 :Click to ' Add new' Button
+[2023-07-28 23:31:31,682] Create Post - Step 03 : Enter post title Live Coding Title3105
+[2023-07-28 23:31:32,679] Create Post - Step 04: Enter post body Live Coding Body3105
+[2023-07-28 23:31:35,448] Create Post - Step 06 : Click to Publish button
+[2023-07-28 23:31:35,808] Create Post - Step 07 : Click to Confirm Publish button
+[2023-07-28 23:31:36,579] Create Post - Step 08 : Verify 'Post Published' message is displayed
+[2023-07-28 23:31:39,901]  -------------------------- PASSED -------------------------- 
+[2023-07-28 23:31:40,073] Search Post - Step 01 : Open 'Search Post' page
+[2023-07-28 23:31:43,009] Search Post - Step 02 : Enter to Search Post
+[2023-07-28 23:31:43,358] Search Post - Step 03 : Click to 'Search Post' button
+[2023-07-28 23:31:46,347] Search Post - Step 04 : Verify Search table contains Live Coding Title3105
+[2023-07-28 23:31:46,512]  -------------------------- PASSED -------------------------- 
+[2023-07-28 23:31:46,513] Search Post - Step 05 : Verify Search table contains automationVa
+[2023-07-28 23:31:46,716]  -------------------------- PASSED -------------------------- 
+[2023-07-28 23:31:46,716] Search Post - Step 06 : Open End user site
+[2023-07-28 23:31:48,989] Search Post - Step 07 : Verify Post info displayed at HomePage
+[2023-07-28 23:31:49,150]  -------------------------- PASSED -------------------------- 
+[2023-07-28 23:31:49,274]  -------------------------- PASSED -------------------------- 
+[2023-07-28 23:31:49,415]  -------------------------- PASSED -------------------------- 
+[2023-07-28 23:31:49,545]  -------------------------- PASSED -------------------------- 
+[2023-07-28 23:31:49,545] Search Post - Step 08 : Click to post title
+[2023-07-28 23:31:52,062]  -------------------------- PASSED -------------------------- 
+[2023-07-28 23:31:52,182]  -------------------------- PASSED -------------------------- 
+[2023-07-28 23:31:52,309]  -------------------------- PASSED -------------------------- 
+[2023-07-28 23:31:52,434]  -------------------------- PASSED -------------------------- 
+[2023-07-28 23:31:52,447] Edit Post - Step 01 :Open Admin site
+[2023-07-28 23:31:54,963] Precondition - Step 02 : Enter to username textbox with value automationVa
+[2023-07-28 23:31:55,203] Precondition - Step 03 : Enter to pw textbox with value automationVa
+[2023-07-28 23:31:55,297] Precondition - Step 04 : Click to login button
+[2023-07-28 23:31:56,791] Edit Post - Step 02 : Click to Post menu link
+[2023-07-28 23:35:31,415] Precondition - Step 01 : Open browser and admin URL
+[2023-07-28 23:35:37,261] Precondition - RANDOM NUMBER3348
+[2023-07-28 23:35:37,261] Precondition - Step 02 : Enter to username textbox with valueautomationVa
+[2023-07-28 23:35:37,390] Precondition - Step 03 : Enter to pw textbox with valueautomationVa
+[2023-07-28 23:35:37,484] Precondition - Step 04 : Click to login button
+[2023-07-28 23:35:40,936] Create Post - Step 01 :Click to 'Post' menu link 
+[2023-07-28 23:35:42,988] Create Post - Step 02 :Click to ' Add new' Button
+[2023-07-28 23:35:47,041] Create Post - Step 03 : Enter post title Live Coding Title3348
+[2023-07-28 23:35:48,675] Create Post - Step 04: Enter post body Live Coding Body3348
+[2023-07-28 23:35:50,983] Create Post - Step 06 : Click to Publish button
+[2023-07-28 23:35:51,321] Create Post - Step 07 : Click to Confirm Publish button
+[2023-07-28 23:35:52,443] Create Post - Step 08 : Verify 'Post Published' message is displayed
+[2023-07-28 23:35:55,517]  -------------------------- PASSED -------------------------- 
+[2023-07-28 23:35:55,687] Search Post - Step 01 : Open 'Search Post' page
+[2023-07-28 23:35:58,779] Search Post - Step 02 : Enter to Search Post
+[2023-07-28 23:35:59,100] Search Post - Step 03 : Click to 'Search Post' button
+[2023-07-28 23:36:02,318] Search Post - Step 04 : Verify Search table contains Live Coding Title3348
+[2023-07-28 23:36:02,522]  -------------------------- PASSED -------------------------- 
+[2023-07-28 23:36:02,522] Search Post - Step 05 : Verify Search table contains automationVa
+[2023-07-28 23:36:02,711]  -------------------------- PASSED -------------------------- 
+[2023-07-28 23:36:02,711] Search Post - Step 06 : Open End user site
+[2023-07-28 23:36:05,169] Search Post - Step 07 : Verify Post info displayed at HomePage
+[2023-07-28 23:36:05,346]  -------------------------- PASSED -------------------------- 
+[2023-07-28 23:36:05,482]  -------------------------- PASSED -------------------------- 
+[2023-07-28 23:36:05,606]  -------------------------- PASSED -------------------------- 
+[2023-07-28 23:36:05,745]  -------------------------- PASSED -------------------------- 
+[2023-07-28 23:36:05,745] Search Post - Step 08 : Click to post title
+[2023-07-28 23:36:08,278]  -------------------------- PASSED -------------------------- 
+[2023-07-28 23:36:08,395]  -------------------------- PASSED -------------------------- 
+[2023-07-28 23:36:08,520]  -------------------------- PASSED -------------------------- 
+[2023-07-28 23:36:08,633]  -------------------------- PASSED -------------------------- 
+[2023-07-28 23:36:08,642] Edit Post - Step 01 :Open Admin site
+[2023-07-28 23:36:11,232] Precondition - Step 02 : Enter to username textbox with value automationVa
+[2023-07-28 23:36:11,471] Precondition - Step 03 : Enter to pw textbox with value automationVa
+[2023-07-28 23:36:11,564] Precondition - Step 04 : Click to login button
+[2023-07-28 23:36:12,998] Edit Post - Step 02 : Click to Post menu link
+[2023-07-28 23:37:40,962] Precondition - Step 01 : Open browser and admin URL
+[2023-07-28 23:37:47,479] Precondition - RANDOM NUMBER9972
+[2023-07-28 23:37:47,479] Precondition - Step 02 : Enter to username textbox with valueautomationVa
+[2023-07-28 23:37:47,749] Precondition - Step 03 : Enter to pw textbox with valueautomationVa
+[2023-07-28 23:37:47,970] Precondition - Step 04 : Click to login button
+[2023-07-28 23:37:51,831] Create Post - Step 01 :Click to 'Post' menu link 
+[2023-07-28 23:37:54,408] Create Post - Step 02 :Click to ' Add new' Button
+[2023-07-28 23:37:58,723] Create Post - Step 03 : Enter post title Live Coding Title9972
+[2023-07-28 23:37:59,869] Create Post - Step 04: Enter post body Live Coding Body9972
+[2023-07-28 23:38:03,028] Create Post - Step 06 : Click to Publish button
+[2023-07-28 23:38:03,305] Create Post - Step 07 : Click to Confirm Publish button
+[2023-07-28 23:38:04,122] Create Post - Step 08 : Verify 'Post Published' message is displayed
+[2023-07-28 23:38:07,387]  -------------------------- PASSED -------------------------- 
+[2023-07-28 23:38:07,571] Search Post - Step 01 : Open 'Search Post' page
+[2023-07-28 23:38:10,765] Search Post - Step 02 : Enter to Search Post
+[2023-07-28 23:38:11,136] Search Post - Step 03 : Click to 'Search Post' button
+[2023-07-28 23:38:14,535] Search Post - Step 04 : Verify Search table contains Live Coding Title9972
+[2023-07-28 23:38:14,695]  -------------------------- PASSED -------------------------- 
+[2023-07-28 23:38:14,695] Search Post - Step 05 : Verify Search table contains automationVa
+[2023-07-28 23:38:14,868]  -------------------------- PASSED -------------------------- 
+[2023-07-28 23:38:14,868] Search Post - Step 06 : Open End user site
+[2023-07-28 23:38:17,191] Search Post - Step 07 : Verify Post info displayed at HomePage
+[2023-07-28 23:38:17,354]  -------------------------- PASSED -------------------------- 
+[2023-07-28 23:38:17,471]  -------------------------- PASSED -------------------------- 
+[2023-07-28 23:38:17,614]  -------------------------- PASSED -------------------------- 
+[2023-07-28 23:38:17,759]  -------------------------- PASSED -------------------------- 
+[2023-07-28 23:38:17,759] Search Post - Step 08 : Click to post title
+[2023-07-28 23:38:20,416]  -------------------------- PASSED -------------------------- 
+[2023-07-28 23:38:20,527]  -------------------------- PASSED -------------------------- 
+[2023-07-28 23:38:20,643]  -------------------------- PASSED -------------------------- 
+[2023-07-28 23:38:20,769]  -------------------------- PASSED -------------------------- 
+[2023-07-28 23:38:20,778] Edit Post - Step 01 :Open Admin site
+[2023-07-28 23:38:24,589] Precondition - Step 02 : Enter to username textbox with value automationVa
+[2023-07-28 23:38:24,993] Precondition - Step 03 : Enter to pw textbox with value automationVa
+[2023-07-28 23:38:25,200] Precondition - Step 04 : Click to login button
+[2023-07-28 23:38:28,617] Edit Post - Step 02 : Click to Post menu link
+[2023-07-28 23:38:31,246] Edit Post - Step 03 :Enter to Search textbox
+[2023-07-28 23:38:31,596] Search Post - Step 04 : Click to 'Search Post' button
+[2023-07-28 23:38:34,815] Edit Post - Step 05 : Click to post title link and navigate to Edit post page
+[2023-07-28 23:38:39,266] Edit Post - Step 06 :Enter to Post titleEdit Coding Title9972
+[2023-07-28 23:38:43,037] Edit Post - Step 04: Enter post body Edit Coding Body9972
+[2023-07-29 00:29:06,608] Precondition - Step 01 : Open browser and admin URL
+[2023-07-29 00:29:13,168] Precondition - RANDOM NUMBER4248
+[2023-07-29 00:29:13,168] Precondition - Step 02 : Enter to username textbox with valueautomationVa
+[2023-07-29 00:29:13,398] Precondition - Step 03 : Enter to pw textbox with valueautomationVa
+[2023-07-29 00:29:13,585] Precondition - Step 04 : Click to login button
+[2023-07-29 00:29:16,847] Create Post - Step 01 :Click to 'Post' menu link 
+[2023-07-29 00:29:18,792] Create Post - Step 02 :Click to ' Add new' Button
+[2023-07-29 00:29:22,661] Create Post - Step 03 : Enter post title Live Coding Title4248
+[2023-07-29 00:29:23,777] Create Post - Step 04: Enter post body Live Coding Body4248
+[2023-07-29 00:29:25,874] Create Post - Step 06 : Click to Publish button
+[2023-07-29 00:29:26,276] Create Post - Step 07 : Click to Confirm Publish button
+[2023-07-29 00:29:26,658] Create Post - Step 08 : Verify 'Post Published' message is displayed
+[2023-07-29 00:29:29,901]  -------------------------- PASSED -------------------------- 
+[2023-07-29 00:29:30,108] Search Post - Step 01 : Open 'Search Post' page
+[2023-07-29 00:29:32,931] Search Post - Step 02 : Enter to Search Post
+[2023-07-29 00:29:33,248] Search Post - Step 03 : Click to 'Search Post' button
+[2023-07-29 00:29:36,082] Search Post - Step 04 : Verify Search table contains Live Coding Title4248
+[2023-07-29 00:29:36,240]  -------------------------- PASSED -------------------------- 
+[2023-07-29 00:29:36,240] Search Post - Step 05 : Verify Search table contains automationVa
+[2023-07-29 00:29:36,387]  -------------------------- PASSED -------------------------- 
+[2023-07-29 00:29:36,387] Search Post - Step 06 : Open End user site
+[2023-07-29 00:29:38,592] Search Post - Step 07 : Verify Post info displayed at HomePage
+[2023-07-29 00:29:38,730]  -------------------------- PASSED -------------------------- 
+[2023-07-29 00:29:38,850]  -------------------------- PASSED -------------------------- 
+[2023-07-29 00:29:38,975]  -------------------------- PASSED -------------------------- 
+[2023-07-29 00:29:39,104]  -------------------------- PASSED -------------------------- 
+[2023-07-29 00:29:39,104] Search Post - Step 08 : Click to post title
+[2023-07-29 00:29:41,540]  -------------------------- PASSED -------------------------- 
+[2023-07-29 00:29:41,662]  -------------------------- PASSED -------------------------- 
+[2023-07-29 00:29:41,775]  -------------------------- PASSED -------------------------- 
+[2023-07-29 00:29:41,887]  -------------------------- PASSED -------------------------- 
+[2023-07-29 00:29:41,896] Edit Post - Step 01 :Open Admin site
+[2023-07-29 00:29:44,420] Precondition - Step 02 : Enter to username textbox with value automationVa
+[2023-07-29 00:29:44,814] Precondition - Step 03 : Enter to pw textbox with value automationVa
+[2023-07-29 00:29:45,004] Precondition - Step 04 : Click to login button
+[2023-07-29 00:29:48,137] Edit Post - Step 02 : Click to Post menu link
+[2023-07-29 00:29:50,297] Edit Post - Step 03 :Enter to Search textbox
+[2023-07-29 00:29:50,595] Search Post - Step 04 : Click to 'Search Post' button
+[2023-07-29 00:29:53,567] Edit Post - Step 05 : Click to post title link and navigate to Edit post page
+[2023-07-29 00:29:57,581] Edit Post - Step 06 :Enter to Post titleEdit Coding Title4248
+[2023-07-29 00:29:59,213] Edit Post - Step 04: Enter post body Edit Coding Body4248
+[2023-07-29 00:30:01,948] Edit Post - Step 07 : Click to Confirm Publish button
+[2023-07-29 00:34:43,833] Precondition - Step 01 : Open browser and admin URL
+[2023-07-29 00:34:48,841] Precondition - RANDOM NUMBER8551
+[2023-07-29 00:34:48,841] Precondition - Step 02 : Enter to username textbox with valueautomationVa
+[2023-07-29 00:34:49,096] Precondition - Step 03 : Enter to pw textbox with valueautomationVa
+[2023-07-29 00:34:49,307] Precondition - Step 04 : Click to login button
+[2023-07-29 00:34:53,020] Create Post - Step 01 :Click to 'Post' menu link 
+[2023-07-29 00:34:55,726] Create Post - Step 02 :Click to ' Add new' Button
+[2023-07-29 00:35:00,304] Create Post - Step 03 : Enter post title Live Coding Title8551
+[2023-07-29 00:35:01,714] Create Post - Step 04: Enter post body Live Coding Body8551
+[2023-07-29 00:35:04,187] Create Post - Step 06 : Click to Publish button
+[2023-07-29 00:35:04,543] Create Post - Step 07 : Click to Confirm Publish button
+[2023-07-29 00:35:04,986] Create Post - Step 08 : Verify 'Post Published' message is displayed
+[2023-07-29 00:35:08,581]  -------------------------- PASSED -------------------------- 
+[2023-07-29 00:35:08,750] Search Post - Step 01 : Open 'Search Post' page
+[2023-07-29 00:35:11,792] Search Post - Step 02 : Enter to Search Post
+[2023-07-29 00:35:12,134] Search Post - Step 03 : Click to 'Search Post' button
+[2023-07-29 00:35:15,305] Search Post - Step 04 : Verify Search table contains Live Coding Title8551
+[2023-07-29 00:35:15,554]  -------------------------- PASSED -------------------------- 
+[2023-07-29 00:35:15,554] Search Post - Step 05 : Verify Search table contains automationVa
+[2023-07-29 00:35:15,711]  -------------------------- PASSED -------------------------- 
+[2023-07-29 00:35:15,711] Search Post - Step 06 : Open End user site
+[2023-07-29 00:35:17,825] Search Post - Step 07 : Verify Post info displayed at HomePage
+[2023-07-29 00:35:17,994]  -------------------------- PASSED -------------------------- 
+[2023-07-29 00:35:18,128]  -------------------------- PASSED -------------------------- 
+[2023-07-29 00:35:18,272]  -------------------------- PASSED -------------------------- 
+[2023-07-29 00:35:18,411]  -------------------------- PASSED -------------------------- 
+[2023-07-29 00:35:18,411] Search Post - Step 08 : Click to post title
+[2023-07-29 00:35:20,974]  -------------------------- PASSED -------------------------- 
+[2023-07-29 00:35:21,088]  -------------------------- PASSED -------------------------- 
+[2023-07-29 00:35:21,203]  -------------------------- PASSED -------------------------- 
+[2023-07-29 00:35:21,341]  -------------------------- PASSED -------------------------- 
+[2023-07-29 00:35:21,352] Edit Post - Step 01 :Open Admin site
+[2023-07-29 00:35:25,072] Precondition - Step 02 : Enter to username textbox with value automationVa
+[2023-07-29 00:35:25,523] Precondition - Step 03 : Enter to pw textbox with value automationVa
+[2023-07-29 00:35:25,731] Precondition - Step 04 : Click to login button
+[2023-07-29 00:35:29,123] Edit Post - Step 02 : Click to Post menu link
+[2023-07-29 00:35:32,184] Edit Post - Step 03 :Enter to Search textbox
+[2023-07-29 00:35:32,543] Search Post - Step 04 : Click to 'Search Post' button
+[2023-07-29 00:35:35,775] Edit Post - Step 05 : Click to post title link and navigate to Edit post page
+[2023-07-29 00:35:40,123] Edit Post - Step 06 :Enter to Post titleEdit Coding Title8551
+[2023-07-29 00:35:41,728] Edit Post - Step 04: Enter post body Edit Coding Body8551
+[2023-07-29 00:35:44,597] Edit Post - Step 07 : Click to Confirm Publish button
+[2023-07-29 00:41:06,779] Precondition - Step 01 : Open browser and admin URL
+[2023-07-29 00:41:12,845] Precondition - RANDOM NUMBER7014
+[2023-07-29 00:41:12,846] Precondition - Step 02 : Enter to username textbox with valueautomationVa
+[2023-07-29 00:41:13,102] Precondition - Step 03 : Enter to pw textbox with valueautomationVa
+[2023-07-29 00:41:13,324] Precondition - Step 04 : Click to login button
+[2023-07-29 00:41:16,895] Create Post - Step 01 :Click to 'Post' menu link 
+[2023-07-29 00:41:19,619] Create Post - Step 02 :Click to ' Add new' Button
+[2023-07-29 00:41:25,362] Create Post - Step 03 : Enter post title Live Coding Title7014
+[2023-07-29 00:41:27,428] Create Post - Step 04: Enter post body Live Coding Body7014
+[2023-07-29 00:41:30,731] Create Post - Step 06 : Click to Publish button
+[2023-07-29 00:41:31,282] Create Post - Step 07 : Click to Confirm Publish button
+[2023-07-29 00:41:32,405] Create Post - Step 08 : Verify 'Post Published' message is displayed
+[2023-07-29 00:41:36,339]  -------------------------- PASSED -------------------------- 
+[2023-07-29 00:41:36,606] Search Post - Step 01 : Open 'Search Post' page
+[2023-07-29 00:41:40,046] Search Post - Step 02 : Enter to Search Post
+[2023-07-29 00:41:40,446] Search Post - Step 03 : Click to 'Search Post' button
+[2023-07-29 00:41:44,344] Search Post - Step 04 : Verify Search table contains Live Coding Title7014
+[2023-07-29 00:41:44,599]  -------------------------- PASSED -------------------------- 
+[2023-07-29 00:41:44,600] Search Post - Step 05 : Verify Search table contains automationVa
+[2023-07-29 00:41:44,783]  -------------------------- PASSED -------------------------- 
+[2023-07-29 00:41:44,784] Search Post - Step 06 : Open End user site
+[2023-07-29 00:41:47,726] Search Post - Step 07 : Verify Post info displayed at HomePage
+[2023-07-29 00:41:47,900]  -------------------------- PASSED -------------------------- 
+[2023-07-29 00:41:48,038]  -------------------------- PASSED -------------------------- 
+[2023-07-29 00:41:48,239]  -------------------------- PASSED -------------------------- 
+[2023-07-29 00:41:48,395]  -------------------------- PASSED -------------------------- 
+[2023-07-29 00:41:48,395] Search Post - Step 08 : Click to post title
+[2023-07-29 00:41:51,425]  -------------------------- PASSED -------------------------- 
+[2023-07-29 00:41:51,560]  -------------------------- PASSED -------------------------- 
+[2023-07-29 00:41:51,698]  -------------------------- PASSED -------------------------- 
+[2023-07-29 00:41:51,831]  -------------------------- PASSED -------------------------- 
+[2023-07-29 00:41:51,842] Edit Post - Step 01 :Open Admin site
+[2023-07-29 00:41:54,897] Precondition - Step 02 : Enter to username textbox with value automationVa
+[2023-07-29 00:41:55,339] Precondition - Step 03 : Enter to pw textbox with value automationVa
+[2023-07-29 00:41:55,559] Precondition - Step 04 : Click to login button
+[2023-07-29 00:41:59,099] Edit Post - Step 02 : Click to Post menu link
+[2023-07-29 00:42:01,570] Edit Post - Step 03 :Enter to Search textbox
+[2023-07-29 00:42:01,929] Search Post - Step 04 : Click to 'Search Post' button
+[2023-07-29 00:42:05,277] Edit Post - Step 05 : Click to post title link and navigate to Edit post page
+[2023-07-29 00:42:10,196] Edit Post - Step 06 :Enter to Post titleEdit Coding Title7014
+[2023-07-29 00:42:11,878] Edit Post - Step 04: Enter post body Edit Coding Body7014
+[2023-07-29 00:42:14,820] Edit Post - Step 07 : Click to update Publish button
+[2023-07-29 00:42:15,143] Edit Post - Step 08 : Verify 'Post Updated' message is displayed
+[2023-07-29 00:42:17,745]  -------------------------- PASSED -------------------------- 
+[2023-07-29 00:42:17,745] Edit Post - Step 01 : Open 'Search Post' page
+[2023-07-29 00:42:21,085] Edit Post - Step 02 : Enter to Search Post
+[2023-07-29 00:42:21,448] Edit Post - Step 03 : Click to 'Search Post' button
+[2023-07-29 00:42:25,907] Edit Post - Step 04 : Verify Search table contains Edit Coding Title7014
+[2023-07-29 00:42:26,081]  -------------------------- PASSED -------------------------- 
+[2023-07-29 00:42:26,081] Edit Post - Step 05 : Verify Search table contains automationVa
+[2023-07-29 00:42:26,252]  -------------------------- PASSED -------------------------- 
+[2023-07-29 00:42:26,252] Edit Post - Step 06 : Open End user site
+[2023-07-29 00:42:28,585] Edit Post - Step 07 : Verify Post info displayed at HomePage
+[2023-07-29 00:42:28,741]  -------------------------- PASSED -------------------------- 
+[2023-07-29 00:42:28,858]  -------------------------- PASSED -------------------------- 
+[2023-07-29 00:42:28,982]  -------------------------- PASSED -------------------------- 
+[2023-07-29 00:42:29,090]  -------------------------- PASSED -------------------------- 
+[2023-07-29 00:42:29,090] Edit Post - Step 08 : Click to post title
+[2023-07-29 00:42:31,603]  -------------------------- PASSED -------------------------- 
+[2023-07-29 00:42:31,705]  -------------------------- PASSED -------------------------- 
+[2023-07-29 00:45:37,394] Precondition - Step 01 : Open browser and admin URL
+[2023-07-29 00:45:43,899] Precondition - RANDOM NUMBER3116
+[2023-07-29 00:45:43,899] Precondition - Step 02 : Enter to username textbox with valueautomationVa
+[2023-07-29 00:45:44,182] Precondition - Step 03 : Enter to pw textbox with valueautomationVa
+[2023-07-29 00:45:44,398] Precondition - Step 04 : Click to login button
+[2023-07-29 00:45:48,644] Create Post - Step 01 :Click to 'Post' menu link 
+[2023-07-29 00:45:51,124] Create Post - Step 02 :Click to ' Add new' Button
+[2023-07-29 00:45:55,594] Create Post - Step 03 : Enter post title Live Coding Title3116
+[2023-07-29 00:45:57,938] Create Post - Step 04: Enter post body Live Coding Body3116
+[2023-07-29 00:46:00,958] Create Post - Step 06 : Click to Publish button
+[2023-07-29 00:46:01,359] Create Post - Step 07 : Click to Confirm Publish button
+[2023-07-29 00:46:03,727] Create Post - Step 08 : Verify 'Post Published' message is displayed
+[2023-07-29 00:46:06,037]  -------------------------- PASSED -------------------------- 
+[2023-07-29 00:46:06,234] Search Post - Step 01 : Open 'Search Post' page
+[2023-07-29 00:46:09,525] Search Post - Step 02 : Enter to Search Post
+[2023-07-29 00:46:09,944] Search Post - Step 03 : Click to 'Search Post' button
+[2023-07-29 00:46:13,281] Search Post - Step 04 : Verify Search table contains Live Coding Title3116
+[2023-07-29 00:46:13,454]  -------------------------- PASSED -------------------------- 
+[2023-07-29 00:46:13,454] Search Post - Step 05 : Verify Search table contains automationVa
+[2023-07-29 00:46:13,607]  -------------------------- PASSED -------------------------- 
+[2023-07-29 00:46:13,607] Search Post - Step 06 : Open End user site
+[2023-07-29 00:46:15,832] Search Post - Step 07 : Verify Post info displayed at HomePage
+[2023-07-29 00:46:15,985]  -------------------------- PASSED -------------------------- 
+[2023-07-29 00:46:16,125]  -------------------------- PASSED -------------------------- 
+[2023-07-29 00:46:16,267]  -------------------------- PASSED -------------------------- 
+[2023-07-29 00:46:16,407]  -------------------------- PASSED -------------------------- 
+[2023-07-29 00:46:16,407] Search Post - Step 08 : Click to post title
+[2023-07-29 00:46:19,092]  -------------------------- PASSED -------------------------- 
+[2023-07-29 00:46:19,208]  -------------------------- PASSED -------------------------- 
+[2023-07-29 00:46:19,336]  -------------------------- PASSED -------------------------- 
+[2023-07-29 00:46:19,465]  -------------------------- PASSED -------------------------- 
+[2023-07-29 00:46:19,475] Edit Post - Step 01 :Open Admin site
+[2023-07-29 00:46:22,302] Precondition - Step 02 : Enter to username textbox with value automationVa
+[2023-07-29 00:46:22,765] Precondition - Step 03 : Enter to pw textbox with value automationVa
+[2023-07-29 00:46:22,978] Precondition - Step 04 : Click to login button
+[2023-07-29 00:46:27,551] Edit Post - Step 02 : Click to Post menu link
+[2023-07-29 00:46:29,976] Edit Post - Step 03 :Enter to Search textbox
+[2023-07-29 00:46:30,354] Search Post - Step 04 : Click to 'Search Post' button
+[2023-07-29 00:46:33,830] Edit Post - Step 05 : Click to post title link and navigate to Edit post page
+[2023-07-29 00:46:38,422] Edit Post - Step 06 :Enter to Post titleEdit Coding Title3116
+[2023-07-29 00:46:40,313] Edit Post - Step 04: Enter post body Edit Coding Body3116
+[2023-07-29 00:46:43,281] Edit Post - Step 07 : Click to update Publish button
+[2023-07-29 00:46:43,601] Edit Post - Step 08 : Verify 'Post Updated' message is displayed
+[2023-07-29 00:46:46,133]  -------------------------- PASSED -------------------------- 
+[2023-07-29 00:46:46,133] Edit Post - Step 01 : Open 'Search Post' page
+[2023-07-29 00:46:49,434] Edit Post - Step 02 : Enter to Search Post
+[2023-07-29 00:46:49,807] Edit Post - Step 03 : Click to 'Search Post' button
+[2023-07-29 00:46:53,254] Edit Post - Step 04 : Verify Search table contains Edit Coding Title3116
+[2023-07-29 00:46:53,440]  -------------------------- PASSED -------------------------- 
+[2023-07-29 00:46:53,441] Edit Post - Step 05 : Verify Search table contains automationVa
+[2023-07-29 00:46:53,630]  -------------------------- PASSED -------------------------- 
+[2023-07-29 00:46:53,630] Edit Post - Step 06 : Open End user site
+[2023-07-29 00:46:55,900] Edit Post - Step 07 : Verify Post info displayed at HomePage
+[2023-07-29 00:46:56,020]  -------------------------- PASSED -------------------------- 
+[2023-07-29 00:46:56,138]  -------------------------- PASSED -------------------------- 
+[2023-07-29 00:46:56,235]  -------------------------- PASSED -------------------------- 
+[2023-07-29 00:46:56,365]  -------------------------- PASSED -------------------------- 
+[2023-07-29 00:46:56,365] Edit Post - Step 08 : Click to post title
+[2023-07-29 00:46:58,928]  -------------------------- PASSED -------------------------- 
+[2023-07-29 00:46:59,042]  -------------------------- PASSED -------------------------- 
+[2023-07-29 00:46:59,165]  -------------------------- PASSED -------------------------- 
+[2023-07-29 00:46:59,270]  -------------------------- PASSED -------------------------- 
+[2023-08-01 12:34:01,212] Precondition - Step 01 : Open browser and admin URL
+[2023-08-01 12:34:17,034] Precondition - RANDOM NUMBER7350
+[2023-08-01 12:34:17,034] Precondition - Step 02 : Enter to username textbox with valueautomationVa
+[2023-08-01 12:34:17,985] Precondition - Step 03 : Enter to pw textbox with valueautomationVa
+[2023-08-01 12:34:18,438] Precondition - Step 04 : Click to login button
+[2023-08-01 12:34:28,480] Create Post - Step 01 :Click to 'Post' menu link 
+[2023-08-01 12:34:33,527] Create Post - Step 02 :Click to ' Add new' Button
+[2023-08-01 12:34:41,055] Create Post - Step 03 : Enter post title Live Coding Title7350
+[2023-08-01 12:34:44,539] Create Post - Step 04: Enter post body Live Coding Body7350
+[2023-08-01 12:34:47,401] Create Post - Step 06 : Click to Publish button
+[2023-08-01 12:34:48,821] Create Post - Step 07 : Click to Confirm Publish button
+[2023-08-01 12:34:52,617] Create Post - Step 08 : Verify 'Post Published' message is displayed
+[2023-08-01 12:34:55,888]  -------------------------- PASSED -------------------------- 
+[2023-08-01 12:34:56,155] Search Post - Step 01 : Open 'Search Post' page
+[2023-08-01 12:35:00,182] Search Post - Step 02 : Enter to Search Post
+[2023-08-01 12:35:00,640] Search Post - Step 03 : Click to 'Search Post' button
+[2023-08-01 12:35:04,717] Search Post - Step 04 : Verify Search table contains Live Coding Title7350
+[2023-08-01 12:35:04,971]  -------------------------- PASSED -------------------------- 
+[2023-08-01 12:35:04,971] Search Post - Step 05 : Verify Search table contains automationVa
+[2023-08-01 12:35:05,156]  -------------------------- PASSED -------------------------- 
+[2023-08-01 12:35:05,156] Search Post - Step 06 : Open End user site
+[2023-08-01 12:35:08,912] Search Post - Step 07 : Verify Post info displayed at HomePage
+[2023-08-01 12:35:09,184]  -------------------------- PASSED -------------------------- 
+[2023-08-01 12:35:09,363]  -------------------------- PASSED -------------------------- 
+[2023-08-01 12:35:09,501]  -------------------------- PASSED -------------------------- 
+[2023-08-01 12:35:50,529] Edit Post - Step 01 :Open Admin site
+[2023-08-01 12:35:50,932] Edit Post - Step 01 :Open Admin site
+[2023-08-01 12:40:30,034] Precondition - Step 01 : Open browser and admin URL
+[2023-08-01 12:40:39,109] Precondition - RANDOM NUMBER7176
+[2023-08-01 12:40:39,110] Precondition - Step 02 : Enter to username textbox with valueautomationVa
+[2023-08-01 12:40:39,418] Precondition - Step 03 : Enter to pw textbox with valueautomationVa
+[2023-08-01 12:40:39,693] Precondition - Step 04 : Click to login button
+[2023-08-01 12:40:44,199] Create Post - Step 01 :Click to 'Post' menu link 
+[2023-08-01 12:40:46,963] Create Post - Step 02 :Click to ' Add new' Button
+[2023-08-01 12:40:52,167] Create Post - Step 03 : Enter post title Live Coding Title7176
+[2023-08-01 12:40:53,722] Create Post - Step 04: Enter post body Live Coding Body7176
+[2023-08-01 12:40:56,096] Create Post - Step 06 : Click to Publish button
+[2023-08-01 12:40:57,164] Create Post - Step 07 : Click to Confirm Publish button
+[2023-08-01 12:40:57,722] Create Post - Step 08 : Verify 'Post Published' message is displayed
+[2023-08-01 12:41:01,973]  -------------------------- PASSED -------------------------- 
+[2023-08-01 12:41:02,190] Search Post - Step 01 : Open 'Search Post' page
+[2023-08-01 12:41:05,652] Search Post - Step 02 : Enter to Search Post
+[2023-08-01 12:41:06,035] Search Post - Step 03 : Click to 'Search Post' button
+[2023-08-01 12:41:09,414] Search Post - Step 04 : Verify Search table contains Live Coding Title7176
+[2023-08-01 12:41:09,648]  -------------------------- PASSED -------------------------- 
+[2023-08-01 12:41:09,648] Search Post - Step 05 : Verify Search table contains automationVa
+[2023-08-01 12:41:09,822]  -------------------------- PASSED -------------------------- 
+[2023-08-01 12:41:09,822] Search Post - Step 06 : Open End user site
+[2023-08-01 12:41:12,553] Search Post - Step 07 : Verify Post info displayed at HomePage
+[2023-08-01 12:41:12,755]  -------------------------- PASSED -------------------------- 
+[2023-08-01 12:41:12,918]  -------------------------- PASSED -------------------------- 
+[2023-08-01 12:41:13,051]  -------------------------- PASSED -------------------------- 
+[2023-08-01 12:41:13,191]  -------------------------- PASSED -------------------------- 
+[2023-08-01 12:41:13,191] Search Post - Step 08 : Click to post title
+[2023-08-01 12:41:16,049]  -------------------------- PASSED -------------------------- 
+[2023-08-01 12:41:16,187]  -------------------------- PASSED -------------------------- 
+[2023-08-01 12:41:16,333]  -------------------------- PASSED -------------------------- 
+[2023-08-01 12:41:16,452]  -------------------------- PASSED -------------------------- 
+[2023-08-01 12:41:16,463] Edit Post - Step 01 :Open Admin site
+[2023-08-01 12:41:19,598] Precondition - Step 02 : Enter to username textbox with value automationVa
+[2023-08-01 12:41:20,055] Precondition - Step 03 : Enter to pw textbox with value automationVa
+[2023-08-01 12:41:20,274] Precondition - Step 04 : Click to login button
+[2023-08-01 12:41:24,113] Edit Post - Step 02 : Click to Post menu link
+[2023-08-01 12:41:26,711] Edit Post - Step 03 :Enter to Search textbox
+[2023-08-01 12:41:27,123] Search Post - Step 04 : Click to 'Search Post' button
+[2023-08-01 12:41:31,085] Edit Post - Step 05 : Click to post title link and navigate to Edit post page
+[2023-08-01 12:41:36,205] Edit Post - Step 06 :Enter to Post titleEdit Coding Title7176
+[2023-08-01 12:41:38,106] Edit Post - Step 04: Enter post body Edit Coding Body7176
+[2023-08-01 12:41:40,767] Edit Post - Step 07 : Click to update Publish button
+[2023-08-01 12:41:41,092] Edit Post - Step 08 : Verify 'Post Updated' message is displayed
+[2023-08-01 12:41:43,934]  -------------------------- PASSED -------------------------- 
+[2023-08-01 12:41:43,934] Edit Post - Step 01 : Open 'Search Post' page
+[2023-08-01 12:41:47,442] Edit Post - Step 02 : Enter to Search Post
+[2023-08-01 12:41:47,887] Edit Post - Step 03 : Click to 'Search Post' button
+[2023-08-01 12:41:51,291] Edit Post - Step 04 : Verify Search table contains Edit Coding Title7176
+[2023-08-01 12:41:51,479]  -------------------------- PASSED -------------------------- 
+[2023-08-01 12:41:51,480] Edit Post - Step 05 : Verify Search table contains automationVa
+[2023-08-01 12:41:51,642]  -------------------------- PASSED -------------------------- 
+[2023-08-01 12:41:51,642] Edit Post - Step 06 : Open End user site
+[2023-08-01 12:41:54,182] Edit Post - Step 07 : Verify Post info displayed at HomePage
+[2023-08-01 12:41:54,331]  -------------------------- PASSED -------------------------- 
+[2023-08-01 12:41:54,450]  -------------------------- PASSED -------------------------- 
+[2023-08-01 12:41:54,559]  -------------------------- PASSED -------------------------- 
+[2023-08-01 12:41:54,671]  -------------------------- PASSED -------------------------- 
+[2023-08-01 12:41:54,671] Edit Post - Step 08 : Click to post title
+[2023-08-01 12:41:57,270]  -------------------------- PASSED -------------------------- 
+[2023-08-01 12:41:57,388]  -------------------------- PASSED -------------------------- 
+[2023-08-01 12:41:57,508]  -------------------------- PASSED -------------------------- 
+[2023-08-01 12:41:57,616]  -------------------------- PASSED -------------------------- 
+[2023-08-01 12:41:57,637] Edit Post - Step 01 :Open Admin site
+[2023-08-01 12:42:00,703] Precondition - Step 02 : Enter to username textbox with value automationVa
+[2023-08-01 12:42:01,145] Precondition - Step 03 : Enter to pw textbox with value automationVa
+[2023-08-01 12:42:01,367] Precondition - Step 04 : Click to login button
+[2023-08-01 12:42:05,027] Edit Post - Step 05 : Click to Post menu link
+[2023-08-01 12:42:07,682] Edit Post - Step 06 :Enter to Search textbox
+[2023-08-01 12:42:08,050] Search Post - Step 07 : Click to 'Search Post' button
+[2023-08-01 12:42:11,683] Search Post - Step 08 : Select Post detail checkbox
+[2023-08-01 13:28:10,199] Precondition - Step 01 : Open browser and admin URL
+[2023-08-01 13:28:20,122] Precondition - RANDOM NUMBER1924
+[2023-08-01 13:28:20,123] Precondition - Step 02 : Enter to username textbox with valueautomationVa
+[2023-08-01 13:28:20,632] Precondition - Step 03 : Enter to pw textbox with valueautomationVa
+[2023-08-01 13:28:20,957] Precondition - Step 04 : Click to login button
+[2023-08-01 13:28:29,473] Create Post - Step 01 :Click to 'Post' menu link 
+[2023-08-01 13:28:34,025] Create Post - Step 02 :Click to ' Add new' Button
+[2023-08-01 13:28:43,541] Create Post - Step 03 : Enter post title Live Coding Title1924
+[2023-08-01 13:28:49,174] Create Post - Step 04: Enter post body Live Coding Body1924
+[2023-08-01 13:28:52,698] Create Post - Step 06 : Click to Publish button
+[2023-08-01 13:28:53,342] Create Post - Step 07 : Click to Confirm Publish button
+[2023-08-01 13:28:56,554] Create Post - Step 08 : Verify 'Post Published' message is displayed
+[2023-08-01 13:29:01,540]  -------------------------- PASSED -------------------------- 
+[2023-08-01 13:29:01,847] Search Post - Step 01 : Open 'Search Post' page
+[2023-08-01 13:29:05,854] Search Post - Step 02 : Enter to Search Post
+[2023-08-01 13:29:06,687] Search Post - Step 03 : Click to 'Search Post' button
+[2023-08-01 13:29:11,057] Search Post - Step 04 : Verify Search table contains Live Coding Title1924
+[2023-08-01 13:29:11,315]  -------------------------- PASSED -------------------------- 
+[2023-08-01 13:29:11,315] Search Post - Step 05 : Verify Search table contains automationVa
+[2023-08-01 13:29:11,508]  -------------------------- PASSED -------------------------- 
+[2023-08-01 13:29:11,508] Search Post - Step 06 : Open End user site
+[2023-08-01 13:29:15,053] Search Post - Step 07 : Verify Post info displayed at HomePage
+[2023-08-01 13:29:15,334]  -------------------------- PASSED -------------------------- 
+[2023-08-01 13:29:15,527]  -------------------------- PASSED -------------------------- 
+[2023-08-01 13:29:15,688]  -------------------------- PASSED -------------------------- 
+[2023-08-01 13:29:15,841]  -------------------------- PASSED -------------------------- 
+[2023-08-01 13:29:15,842] Search Post - Step 08 : Click to post title
+[2023-08-01 13:29:19,479]  -------------------------- PASSED -------------------------- 
+[2023-08-01 13:29:19,654]  -------------------------- PASSED -------------------------- 
+[2023-08-01 13:29:19,800]  -------------------------- PASSED -------------------------- 
+[2023-08-01 13:29:19,944]  -------------------------- PASSED -------------------------- 
+[2023-08-01 13:29:19,960] Edit Post - Step 01 :Open Admin site
+[2023-08-01 13:29:26,463] Precondition - Step 02 : Enter to username textbox with value automationVa
+[2023-08-01 13:29:27,074] Precondition - Step 03 : Enter to pw textbox with value automationVa
+[2023-08-01 13:29:27,376] Precondition - Step 04 : Click to login button
+[2023-08-01 13:29:32,091] Edit Post - Step 02 : Click to Post menu link
+[2023-08-01 13:29:35,226] Edit Post - Step 03 :Enter to Search textbox
+[2023-08-01 13:29:35,654] Search Post - Step 04 : Click to 'Search Post' button
+[2023-08-01 13:29:40,028] Edit Post - Step 05 : Click to post title link and navigate to Edit post page
+[2023-08-01 13:29:46,284] Edit Post - Step 06 :Enter to Post titleEdit Coding Title1924
+[2023-08-01 13:29:50,540] Edit Post - Step 04: Enter post body Edit Coding Body1924
+[2023-08-01 13:29:53,357] Edit Post - Step 07 : Click to update Publish button
+[2023-08-01 13:29:53,710] Edit Post - Step 08 : Verify 'Post Updated' message is displayed
+[2023-08-01 13:29:57,800]  -------------------------- PASSED -------------------------- 
+[2023-08-01 13:29:57,800] Edit Post - Step 01 : Open 'Search Post' page
+[2023-08-01 13:30:01,925] Edit Post - Step 02 : Enter to Search Post
+[2023-08-01 13:30:02,467] Edit Post - Step 03 : Click to 'Search Post' button
+[2023-08-01 13:30:07,349] Edit Post - Step 04 : Verify Search table contains Edit Coding Title1924
+[2023-08-01 13:30:07,594]  -------------------------- PASSED -------------------------- 
+[2023-08-01 13:30:07,594] Edit Post - Step 05 : Verify Search table contains automationVa
+[2023-08-01 13:30:07,813]  -------------------------- PASSED -------------------------- 
+[2023-08-01 13:30:07,813] Edit Post - Step 06 : Open End user site
+[2023-08-01 13:30:10,724] Edit Post - Step 07 : Verify Post info displayed at HomePage
+[2023-08-01 13:30:10,886]  -------------------------- PASSED -------------------------- 
+[2023-08-01 13:30:11,023]  -------------------------- PASSED -------------------------- 
+[2023-08-01 13:30:11,160]  -------------------------- PASSED -------------------------- 
+[2023-08-01 13:30:11,278]  -------------------------- PASSED -------------------------- 
+[2023-08-01 13:30:11,278] Edit Post - Step 08 : Click to post title
+[2023-08-01 13:30:14,738]  -------------------------- PASSED -------------------------- 
+[2023-08-01 13:30:14,861]  -------------------------- PASSED -------------------------- 
+[2023-08-01 13:30:14,994]  -------------------------- PASSED -------------------------- 
+[2023-08-01 13:30:15,151]  -------------------------- PASSED -------------------------- 
+[2023-08-01 13:30:15,160] Edit Post - Step 01 :Open Admin site
+[2023-08-01 13:30:18,758] Precondition - Step 02 : Enter to username textbox with value automationVa
+[2023-08-01 13:30:19,253] Precondition - Step 03 : Enter to pw textbox with value automationVa
+[2023-08-01 13:30:19,510] Precondition - Step 04 : Click to login button
+[2023-08-01 13:30:25,676] Edit Post - Step 05 : Click to Post menu link
+[2023-08-01 13:30:29,298] Edit Post - Step 06 :Enter to Search textbox
+[2023-08-01 13:30:29,757] Search Post - Step 07 : Click to 'Search Post' button
+[2023-08-01 13:30:34,299] Search Post - Step 08 : Select Post detail checkbox
+[2023-08-01 13:30:34,676] Search Post - Step 09 : Select 'Move to Trash' item in dropdown
+[2023-08-01 13:30:35,055] Search Post - Step 10 : Click to 'Apply' Button
+[2023-08-01 13:30:39,535] Search Post - Step 11 : Verify '1 post moved to Trash.' message is displayed
+[2023-08-01 13:30:39,691]  -------------------------- PASSED -------------------------- 
+[2023-08-01 13:30:39,692] Edit Post - Step 12 :Enter to Search textbox
+[2023-08-01 13:30:40,028] Search Post - Step 13 : Click to 'Search Post' button
+[2023-08-01 13:30:44,623] Search Post - Step 14 : Verify 'No posts found.' message is displayed
+[2023-08-01 13:52:26,289] Precondition - Step 01 : Open browser and admin URL
+[2023-08-01 13:52:39,272] Precondition - RANDOM NUMBER6480
+[2023-08-01 13:52:39,273] Precondition - Step 02 : Enter to username textbox with valueautomationVa
+[2023-08-01 13:52:39,885] Precondition - Step 03 : Enter to pw textbox with valueautomationVa
+[2023-08-01 13:52:40,247] Precondition - Step 04 : Click to login button
+[2023-08-01 13:52:48,486] Create Post - Step 01 :Click to 'Post' menu link 
+[2023-08-01 13:52:56,770] Create Post - Step 02 :Click to ' Add new' Button
+[2023-08-01 13:53:11,937] Create Post - Step 03 : Enter post title Live Coding Title6480
+[2023-08-01 13:53:15,994] Create Post - Step 04: Enter post body Live Coding Body6480
+[2023-08-01 13:53:18,286] Create Post - Step 06 : Click to Publish button
+[2023-08-01 13:53:19,760] Create Post - Step 07 : Click to Confirm Publish button
+[2023-08-01 13:53:20,409] Create Post - Step 08 : Verify 'Post Published' message is displayed
+[2023-08-01 13:53:25,852]  -------------------------- PASSED -------------------------- 
+[2023-08-01 13:53:26,057] Search Post - Step 01 : Open 'Search Post' page
+[2023-08-01 13:53:28,818] Search Post - Step 02 : Enter to Search Post
+[2023-08-01 13:53:29,225] Search Post - Step 03 : Click to 'Search Post' button
+[2023-08-01 13:53:32,863] Search Post - Step 04 : Verify Search table contains Live Coding Title6480
+[2023-08-01 13:53:33,060]  -------------------------- PASSED -------------------------- 
+[2023-08-01 13:53:33,061] Search Post - Step 05 : Verify Search table contains automationVa
+[2023-08-01 13:53:33,244]  -------------------------- PASSED -------------------------- 
+[2023-08-01 13:53:33,244] Search Post - Step 06 : Open End user site
+[2023-08-01 13:53:35,919] Search Post - Step 07 : Verify Post info displayed at HomePage
+[2023-08-01 13:53:36,096]  -------------------------- PASSED -------------------------- 
+[2023-08-01 13:53:36,245]  -------------------------- PASSED -------------------------- 
+[2023-08-01 13:53:36,386]  -------------------------- PASSED -------------------------- 
+[2023-08-01 13:53:36,527]  -------------------------- PASSED -------------------------- 
+[2023-08-01 13:53:36,528] Search Post - Step 08 : Click to post title
+[2023-08-01 13:53:39,690]  -------------------------- PASSED -------------------------- 
+[2023-08-01 13:53:39,832]  -------------------------- PASSED -------------------------- 
+[2023-08-01 13:53:39,971]  -------------------------- PASSED -------------------------- 
+[2023-08-01 13:53:40,110]  -------------------------- PASSED -------------------------- 
+[2023-08-01 13:53:40,120] Edit Post - Step 01 :Open Admin site
+[2023-08-01 13:53:43,638] Precondition - Step 02 : Enter to username textbox with value automationVa
+[2023-08-01 13:53:44,096] Precondition - Step 03 : Enter to pw textbox with value automationVa
+[2023-08-01 13:53:44,318] Precondition - Step 04 : Click to login button
+[2023-08-01 13:53:48,242] Edit Post - Step 02 : Click to Post menu link
+[2023-08-01 13:53:51,905] Edit Post - Step 03 :Enter to Search textbox
+[2023-08-01 13:53:52,289] Search Post - Step 04 : Click to 'Search Post' button
+[2023-08-01 13:53:56,182] Edit Post - Step 05 : Click to post title link and navigate to Edit post page
+[2023-08-01 13:54:01,495] Edit Post - Step 06 :Enter to Post titleEdit Coding Title6480
+[2023-08-01 13:54:03,046] Edit Post - Step 04: Enter post body Edit Coding Body6480
+[2023-08-01 13:54:06,037] Edit Post - Step 07 : Click to update Publish button
+[2023-08-01 13:54:06,343] Edit Post - Step 08 : Verify 'Post Updated' message is displayed
+[2023-08-01 13:54:09,061]  -------------------------- PASSED -------------------------- 
+[2023-08-01 13:54:09,061] Edit Post - Step 01 : Open 'Search Post' page
+[2023-08-01 13:54:12,398] Edit Post - Step 02 : Enter to Search Post
+[2023-08-01 13:54:12,845] Edit Post - Step 03 : Click to 'Search Post' button
+[2023-08-01 13:54:16,387] Edit Post - Step 04 : Verify Search table contains Edit Coding Title6480
+[2023-08-01 13:54:16,577]  -------------------------- PASSED -------------------------- 
+[2023-08-01 13:54:16,577] Edit Post - Step 05 : Verify Search table contains automationVa
+[2023-08-01 13:54:16,754]  -------------------------- PASSED -------------------------- 
+[2023-08-01 13:54:16,754] Edit Post - Step 06 : Open End user site
+[2023-08-01 13:54:19,225] Edit Post - Step 07 : Verify Post info displayed at HomePage
+[2023-08-01 13:54:19,380]  -------------------------- PASSED -------------------------- 
+[2023-08-01 13:54:19,499]  -------------------------- PASSED -------------------------- 
+[2023-08-01 13:54:19,610]  -------------------------- PASSED -------------------------- 
+[2023-08-01 13:54:19,739]  -------------------------- PASSED -------------------------- 
+[2023-08-01 13:54:19,739] Edit Post - Step 08 : Click to post title
+[2023-08-01 13:54:22,417]  -------------------------- PASSED -------------------------- 
+[2023-08-01 13:54:22,519]  -------------------------- PASSED -------------------------- 
+[2023-08-01 13:54:22,630]  -------------------------- PASSED -------------------------- 
+[2023-08-01 13:54:22,729]  -------------------------- PASSED -------------------------- 
+[2023-08-01 13:54:22,740] Edit Post - Step 01 :Open Admin site
+[2023-08-01 13:54:26,686] Precondition - Step 02 : Enter to username textbox with value automationVa
+[2023-08-01 13:54:27,220] Precondition - Step 03 : Enter to pw textbox with value automationVa
+[2023-08-01 13:54:27,451] Precondition - Step 04 : Click to login button
+[2023-08-01 13:54:31,479] Edit Post - Step 05 : Click to Post menu link
+[2023-08-01 13:54:34,181] Edit Post - Step 06 :Enter to Search textbox
+[2023-08-01 13:54:34,570] Search Post - Step 07 : Click to 'Search Post' button
+[2023-08-01 13:54:38,195] Search Post - Step 08 : Select Post detail checkbox
+[2023-08-01 13:54:38,509] Search Post - Step 09 : Select 'Move to Trash' item in dropdown
+[2023-08-01 13:54:38,809] Search Post - Step 10 : Click to 'Apply' Button
+[2023-08-01 13:54:42,434] Search Post - Step 11 : Verify '1 post moved to Trash.' message is displayed
+[2023-08-01 13:54:42,564]  -------------------------- PASSED -------------------------- 
+[2023-08-01 13:54:42,564] Edit Post - Step 12 :Enter to Search textbox
+[2023-08-01 13:54:43,007] Search Post - Step 13 : Click to 'Search Post' button
+[2023-08-01 13:54:46,415] Search Post - Step 14 : Verify 'No posts found.' message is displayed
+[2023-08-01 13:54:46,627]  -------------------------- PASSED -------------------------- 
+[2023-08-01 13:54:46,627] Search Post - Step 15 : Open End User site
+[2023-08-01 13:54:49,443] Search Post - Step 16 : Verify post title undisplayed at home page
+[2023-08-01 13:54:54,529]  -------------------------- PASSED -------------------------- 
+[2023-08-01 13:54:54,530] Search Post - Step 17 : Enter to search textboxEdit Coding Title6480
+[2023-08-01 13:54:54,840] Search Post - Step 18 : Click to 'search' Button
+[2023-08-01 13:54:56,679] Search Post - Step 19 : Verify 'Nothing found' message is displayed
+[2023-08-01 13:54:56,838]  -------------------------- PASSED -------------------------- 
+[2023-08-03 00:58:02,732] Precondition - Step 01 : Open browser and admin URL
+[2023-08-03 01:01:41,871] Precondition - Step 01 : Open browser and admin URL
+[2023-08-03 01:02:28,141] Precondition - Step 01 : Open browser and admin URL
+[2023-08-03 01:17:13,813] Precondition - Step 01 : Open browser and admin URL
+[2023-08-03 01:18:00,784] Precondition - Step 01 : Open browser and admin URL
+[2023-08-03 01:22:08,414] Register - Step 01 : Navigate to register Page
+[2023-08-03 01:22:09,598] Register - Step 02 : Enter to FirstName textbox with value is Automation
+[2023-08-03 01:22:09,734] Register - Step 03 : Enter to LastName textbox with value is FC
+[2023-08-03 01:22:10,238] Register - Step 04 : Select birthday 23/October/1990
+[2023-08-03 01:22:10,296] Register - Step 04 : Enter to email textbox with value is afc9919@mail.vn
+[2023-08-03 01:22:10,442] Register - Step 05 : Enter to password textbox with value is 123456
+[2023-08-03 01:22:10,577] Register - Step 06 : Enter to confirmPw textbox with value is 123456
+[2023-08-03 01:22:10,699] Register - Step 07: Click to Register Button
+[2023-08-03 01:22:11,427] Register - Step 08 : Verify register success
+[2023-08-03 01:22:11,492] Register - Step 09 : Go to HomePage
+[2023-08-03 01:22:12,014] Register - Step 01 : Navigate to Login Page
+[2023-08-03 01:22:12,429] Register - Step 02 : email  to Email textbox with value is afc9919@mail.vn
+[2023-08-03 01:22:12,560] Register - Step 03 : Enter to password textbox with value is 123456
+[2023-08-03 01:22:12,689] Register - Step 04: Click to Login Button
+[2023-08-03 01:22:13,397] Register - Step 05: Verify 'MyAccount' link is display
+[2023-08-03 01:22:13,463]  -------------------------- PASSED -------------------------- 
+[2023-08-03 01:22:13,471] My Account - Step 01: Navigate to 'My Account' Page
+[2023-08-03 01:22:13,950] My Account - Step 02: Verify  'My Account' Page is displayed
+[2023-08-03 01:22:14,012]  -------------------------- PASSED -------------------------- 
+[2023-08-03 01:22:14,013] My Account - Step 03: Verify  'My Account' Page is displayed
+[2023-08-03 01:22:14,072] My Account - Step 04: Verify  lastname is displayed correct
+[2023-08-03 01:22:14,134] My Account - Step 05: Verify  email is displayed correct
+[2023-08-03 01:22:18,768] Register - Step 01 : Navigate to register Page
+[2023-08-03 01:22:20,094] Register - Step 02 : Enter to FirstName textbox with value is Automation
+[2023-08-03 01:22:20,183] Register - Step 03 : Enter to LastName textbox with value is FC
+[2023-08-03 01:22:21,161] Register - Step 04 : Select birthday 23/October/1990
+[2023-08-03 01:22:21,214] Register - Step 04 : Enter to email textbox with value is afc4627@mail.vn
+[2023-08-03 01:22:21,300] Register - Step 05 : Enter to password textbox with value is 123456
+[2023-08-03 01:22:21,377] Register - Step 06 : Enter to confirmPw textbox with value is 123456
+[2023-08-03 01:22:21,455] Register - Step 07: Click to Register Button
+[2023-08-03 01:22:24,023] Register - Step 08 : Verify register success
+[2023-08-03 01:22:24,110] Register - Step 09 : Go to HomePage
+[2023-08-03 01:22:24,632] Register - Step 01 : Navigate to Login Page
+[2023-08-03 01:22:25,142] Register - Step 02 : email  to Email textbox with value is afc4627@mail.vn
+[2023-08-03 01:22:25,272] Register - Step 03 : Enter to password textbox with value is 123456
+[2023-08-03 01:22:25,353] Register - Step 04: Click to Login Button
+[2023-08-03 01:22:26,075] Register - Step 05: Verify 'MyAccount' link is display
+[2023-08-03 01:22:26,171]  -------------------------- PASSED -------------------------- 
+[2023-08-03 01:22:26,174] My Account - Step 01: Navigate to 'My Account' Page
+[2023-08-03 01:22:26,584] My Account - Step 02: Verify  'My Account' Page is displayed
+[2023-08-03 01:22:26,664]  -------------------------- PASSED -------------------------- 
+[2023-08-03 01:22:26,665] My Account - Step 03: Verify  'My Account' Page is displayed
+[2023-08-03 01:22:26,767] My Account - Step 04: Verify  lastname is displayed correct
+[2023-08-03 01:22:26,906] My Account - Step 05: Verify  email is displayed correct
+[2023-08-03 10:04:51,911] Precondition - Step 01 : Open browser and admin URL
+[2023-08-03 10:04:59,953] Precondition - Step 01 : Open browser and admin URL
+[2023-08-03 13:12:49,400] Register - Step 01 : Navigate to register Page
+[2023-08-03 13:12:50,630] Register - Step 02 : Enter to FirstName textbox with value is Automation
+[2023-08-03 13:12:50,808] Register - Step 03 : Enter to LastName textbox with value is FC
+[2023-08-03 13:12:51,338] Register - Step 04 : Select birthday 23/October/1990
+[2023-08-03 13:12:51,407] Register - Step 04 : Enter to email textbox with value is afc866@mail.vn
+[2023-08-03 13:12:51,546] Register - Step 05 : Enter to password textbox with value is 123456
+[2023-08-03 13:12:51,700] Register - Step 06 : Enter to confirmPw textbox with value is 123456
+[2023-08-03 13:12:51,842] Register - Step 07: Click to Register Button
+[2023-08-03 13:12:52,604] Register - Step 08 : Verify register success
+[2023-08-03 13:12:52,670] Register - Step 09 : Go to HomePage
+[2023-08-03 13:12:53,319] Register - Step 01 : Navigate to Login Page
+[2023-08-03 13:12:54,021] Register - Step 02 : email  to Email textbox with value is afc866@mail.vn
+[2023-08-03 13:12:54,200] Register - Step 03 : Enter to password textbox with value is 123456
+[2023-08-03 13:12:54,331] Register - Step 04: Click to Login Button
+[2023-08-03 13:12:55,091] Register - Step 05: Verify 'MyAccount' link is display
+[2023-08-03 13:12:55,171]  -------------------------- PASSED -------------------------- 
+[2023-08-03 13:12:55,178] My Account - Step 01: Navigate to 'My Account' Page
+[2023-08-03 13:12:55,636] My Account - Step 02: Verify  'My Account' Page is displayed
+[2023-08-03 13:12:55,700]  -------------------------- PASSED -------------------------- 
+[2023-08-03 13:12:55,700] My Account - Step 03: Verify  'My Account' Page is displayed
+[2023-08-03 13:12:55,760] My Account - Step 04: Verify  lastname is displayed correct
+[2023-08-03 13:12:55,823] My Account - Step 05: Verify  email is displayed correct
+[2023-08-03 13:13:00,508] Register - Step 01 : Navigate to register Page
+[2023-08-03 13:13:01,843] Register - Step 02 : Enter to FirstName textbox with value is Automation
+[2023-08-03 13:13:01,930] Register - Step 03 : Enter to LastName textbox with value is FC
+[2023-08-03 13:13:02,915] Register - Step 04 : Select birthday 23/October/1990
+[2023-08-03 13:13:02,976] Register - Step 04 : Enter to email textbox with value is afc2477@mail.vn
+[2023-08-03 13:13:03,062] Register - Step 05 : Enter to password textbox with value is 123456
+[2023-08-03 13:13:03,141] Register - Step 06 : Enter to confirmPw textbox with value is 123456
+[2023-08-03 13:13:03,220] Register - Step 07: Click to Register Button
+[2023-08-03 13:13:03,953] Register - Step 08 : Verify register success
+[2023-08-03 13:13:03,998] Register - Step 09 : Go to HomePage
+[2023-08-03 13:13:04,446] Register - Step 01 : Navigate to Login Page
+[2023-08-03 13:13:04,877] Register - Step 02 : email  to Email textbox with value is afc2477@mail.vn
+[2023-08-03 13:13:04,974] Register - Step 03 : Enter to password textbox with value is 123456
+[2023-08-03 13:13:05,071] Register - Step 04: Click to Login Button
+[2023-08-03 13:13:05,773] Register - Step 05: Verify 'MyAccount' link is display
+[2023-08-03 13:13:05,886]  -------------------------- PASSED -------------------------- 
+[2023-08-03 13:13:05,892] My Account - Step 01: Navigate to 'My Account' Page
+[2023-08-03 13:13:06,307] My Account - Step 02: Verify  'My Account' Page is displayed
+[2023-08-03 13:13:06,398]  -------------------------- PASSED -------------------------- 
+[2023-08-03 13:13:06,399] My Account - Step 03: Verify  'My Account' Page is displayed
+[2023-08-03 13:13:06,458] My Account - Step 04: Verify  lastname is displayed correct
+[2023-08-03 13:13:06,524] My Account - Step 05: Verify  email is displayed correct
+[2023-08-09 00:43:12,058] Register - Step 01 : Navigate to register Page
+[2023-08-09 00:43:13,277] Register - Step 02 : Enter to FirstName textbox with value is AUTOMATION
+[2023-08-09 00:43:13,449] Register - Step 03 : Enter to LastName textbox with value is fc
+[2023-08-09 00:43:14,065] Register - Step 04 : Select birthday 23/October/1990
+[2023-08-09 00:43:14,137] Register - Step 04 : Enter to email textbox with value is automationfc6271@fakemail.vn
+[2023-08-09 00:43:14,279] Register - Step 05 : Enter to password textbox with value is 123456
+[2023-08-09 00:43:14,423] Register - Step 06 : Enter to confirmPw textbox with value is 123456
+[2023-08-09 00:43:14,567] Register - Step 07: Click to Register Button
+[2023-08-09 00:43:15,343] Register - Step 08 : Verify register success
+[2023-08-09 00:43:15,411] Register - Step 09 : Go to HomePage
+[2023-08-09 00:43:15,912] Register - Step 01 : Navigate to Login Page
+[2023-08-09 00:43:16,365] Register - Step 02 : email  to Email textbox with value is automationfc6271@fakemail.vn
+[2023-08-09 00:43:16,510] Register - Step 03 : Enter to password textbox with value is 123456
+[2023-08-09 00:43:16,648] Register - Step 04: Click to Login Button
+[2023-08-09 00:43:17,375] Register - Step 05: Verify 'MyAccount' link is display
+[2023-08-09 00:43:17,443]  -------------------------- PASSED -------------------------- 
+[2023-08-09 00:43:17,448] My Account - Step 01: Navigate to 'My Account' Page
+[2023-08-09 00:43:17,868] My Account - Step 02: Verify  'My Account' Page is displayed
+[2023-08-09 00:43:17,944]  -------------------------- PASSED -------------------------- 
+[2023-08-09 00:43:17,948] My Account - Step 03: Verify  'My Account' Page is displayed
+[2023-08-09 00:43:18,005] My Account - Step 04: Verify  lastname is displayed correct
+[2023-08-09 00:43:18,064] My Account - Step 05: Verify  email is displayed correct
+[2023-08-09 00:43:23,191] Register - Step 01 : Navigate to register Page
+[2023-08-09 00:43:24,567] Register - Step 02 : Enter to FirstName textbox with value is AUTOMATION
+[2023-08-09 00:43:24,661] Register - Step 03 : Enter to LastName textbox with value is fc
+[2023-08-09 00:43:25,689] Register - Step 04 : Select birthday 23/October/1990
+[2023-08-09 00:43:25,736] Register - Step 04 : Enter to email textbox with value is automationfc4962@fakemail.vn
+[2023-08-09 00:43:25,829] Register - Step 05 : Enter to password textbox with value is 123456
+[2023-08-09 00:43:25,918] Register - Step 06 : Enter to confirmPw textbox with value is 123456
+[2023-08-09 00:43:26,056] Register - Step 07: Click to Register Button
+[2023-08-09 00:43:26,886] Register - Step 08 : Verify register success
+[2023-08-09 00:43:26,942] Register - Step 09 : Go to HomePage
+[2023-08-09 00:43:27,368] Register - Step 01 : Navigate to Login Page
+[2023-08-09 00:43:27,820] Register - Step 02 : email  to Email textbox with value is automationfc4962@fakemail.vn
+[2023-08-09 00:43:27,914] Register - Step 03 : Enter to password textbox with value is 123456
+[2023-08-09 00:43:28,007] Register - Step 04: Click to Login Button
+[2023-08-09 00:43:28,683] Register - Step 05: Verify 'MyAccount' link is display
+[2023-08-09 00:43:28,785]  -------------------------- PASSED -------------------------- 
+[2023-08-09 00:43:28,791] My Account - Step 01: Navigate to 'My Account' Page
+[2023-08-09 00:43:29,210] My Account - Step 02: Verify  'My Account' Page is displayed
+[2023-08-09 00:43:29,287]  -------------------------- PASSED -------------------------- 
+[2023-08-09 00:43:29,287] My Account - Step 03: Verify  'My Account' Page is displayed
+[2023-08-09 00:43:29,344] My Account - Step 04: Verify  lastname is displayed correct
+[2023-08-09 00:43:29,407] My Account - Step 05: Verify  email is displayed correct
+[2023-08-11 15:07:37,983] Register - Step 01 : Navigate to register Page
+[2023-08-11 15:07:39,247] Register - Step 02 : Enter to FirstName textbox with value is AUTOMATION
+[2023-08-11 15:07:39,412] Register - Step 03 : Enter to LastName textbox with value is fc
+[2023-08-11 15:07:39,969] Register - Step 04 : Select birthday 23/October/1990
+[2023-08-11 15:07:40,056] Register - Step 04 : Enter to email textbox with value is automationfc5009@fakemail.vn
+[2023-08-11 15:07:40,229] Register - Step 05 : Enter to password textbox with value is 123456
+[2023-08-11 15:07:40,371] Register - Step 06 : Enter to confirmPw textbox with value is 123456
+[2023-08-11 15:07:40,497] Register - Step 07: Click to Register Button
+[2023-08-11 15:07:41,343] Register - Step 08 : Verify register success
+[2023-08-11 15:07:41,424] Register - Step 09 : Go to HomePage
+[2023-08-11 15:07:41,950] Register - Step 01 : Navigate to Login Page
+[2023-08-11 15:07:42,506] Register - Step 02 : email  to Email textbox with value is automationfc5009@fakemail.vn
+[2023-08-11 15:07:42,669] Register - Step 03 : Enter to password textbox with value is 123456
+[2023-08-11 15:07:42,820] Register - Step 04: Click to Login Button
+[2023-08-11 15:07:43,640] Register - Step 05: Verify 'MyAccount' link is display
+[2023-08-11 15:07:43,734]  -------------------------- PASSED -------------------------- 
+[2023-08-11 15:07:43,740] My Account - Step 01: Navigate to 'My Account' Page
+[2023-08-11 15:07:44,235] My Account - Step 02: Verify  'My Account' Page is displayed
+[2023-08-11 15:07:44,315]  -------------------------- PASSED -------------------------- 
+[2023-08-11 15:07:44,315] My Account - Step 03: Verify  'My Account' Page is displayed
+[2023-08-11 15:07:44,391] My Account - Step 04: Verify  lastname is displayed correct
+[2023-08-11 15:07:44,451] My Account - Step 05: Verify  email is displayed correct
+[2023-08-11 23:31:23,449] Register - Step 01 : Navigate to register Page
+[2023-08-11 23:31:24,725] Register - Step 02 : Enter to FirstName textbox with value is AUTOMATION
+[2023-08-11 23:31:24,885] Register - Step 03 : Enter to LastName textbox with value is fc
+[2023-08-11 23:31:25,438] Register - Step 04 : Select birthday 23/October/1990
+[2023-08-11 23:31:25,499] Register - Step 04 : Enter to email textbox with value is automationfc2003@fakemail.vn
+[2023-08-11 23:31:25,677] Register - Step 05 : Enter to password textbox with value is 123456
+[2023-08-11 23:31:25,844] Register - Step 06 : Enter to confirmPw textbox with value is 123456
+[2023-08-11 23:31:26,001] Register - Step 07: Click to Register Button
+[2023-08-11 23:31:27,041] Register - Step 08 : Verify register success
+[2023-08-11 23:31:27,116] Register - Step 09 : Go to HomePage
+[2023-08-11 23:31:27,689] Register - Step 01 : Navigate to Login Page
+[2023-08-11 23:31:28,203] Register - Step 02 : email  to Email textbox with value is automationfc2003@fakemail.vn
+[2023-08-11 23:31:28,358] Register - Step 03 : Enter to password textbox with value is 123456
+[2023-08-11 23:31:28,492] Register - Step 04: Click to Login Button
+[2023-08-11 23:31:29,250] Register - Step 05: Verify 'MyAccount' link is display
+[2023-08-11 23:31:29,309]  -------------------------- PASSED -------------------------- 
+[2023-08-11 23:31:29,315] My Account - Step 01: Navigate to 'My Account' Page
+[2023-08-11 23:31:29,805] My Account - Step 02: Verify  'My Account' Page is displayed
+[2023-08-11 23:31:29,872]  -------------------------- PASSED -------------------------- 
+[2023-08-11 23:31:29,872] My Account - Step 03: Verify  'My Account' Page is displayed
+[2023-08-11 23:31:29,931] My Account - Step 04: Verify  lastname is displayed correct
+[2023-08-11 23:31:29,992] My Account - Step 05: Verify  email is displayed correct
+[2023-08-26 01:08:33,786] Register - Step 01 : Navigate to register Page
+[2023-08-26 01:08:35,174] Register - Step 02 : Enter to FirstName textbox with value is AUTOMATION
+[2023-08-26 01:08:35,271] Register - Step 03 : Enter to LastName textbox with value is fc
+[2023-08-26 01:08:36,293] Register - Step 04 : Select birthday 23/October/1990
+[2023-08-26 01:08:36,358] Register - Step 04 : Enter to email textbox with value is automationfc674@fakemail.vn
+[2023-08-26 01:08:36,448] Register - Step 05 : Enter to password textbox with value is 123456
+[2023-08-26 01:08:36,535] Register - Step 06 : Enter to confirmPw textbox with value is 123456
+[2023-08-26 01:08:36,615] Register - Step 07: Click to Register Button
+[2023-08-26 01:08:37,358] Register - Step 08 : Verify register success
+[2023-08-26 01:08:37,428] Register - Step 09 : Go to HomePage
+[2023-08-26 01:08:37,844] Register - Step 01 : Navigate to Login Page
+[2023-08-26 01:08:38,273] Register - Step 02 : email  to Email textbox with value is automationfc674@fakemail.vn
+[2023-08-26 01:08:38,375] Register - Step 03 : Enter to password textbox with value is 123456
+[2023-08-26 01:08:38,473] Register - Step 04: Click to Login Button
+[2023-08-26 01:08:39,682] Register - Step 05: Verify 'MyAccount' link is display
+[2023-08-26 01:08:39,773]  -------------------------- PASSED -------------------------- 
+[2023-08-26 01:08:39,778] My Account - Step 01: Navigate to 'My Account' Page
+[2023-08-26 01:08:40,176] My Account - Step 02: Verify  'My Account' Page is displayed
+[2023-08-26 01:08:40,258]  -------------------------- PASSED -------------------------- 
+[2023-08-26 01:08:40,258] My Account - Step 03: Verify  'My Account' Page is displayed
+[2023-08-26 01:08:40,315] My Account - Step 04: Verify  lastname is displayed correct
+[2023-08-26 01:08:40,377] My Account - Step 05: Verify  email is displayed correct
+[2023-08-26 01:09:05,126] Register - Step 01 : Navigate to register Page
+[2023-08-26 01:09:06,410] Register - Step 02 : Enter to FirstName textbox with value is AUTOMATION
+[2023-08-26 01:09:06,525] Register - Step 03 : Enter to LastName textbox with value is fc
+[2023-08-26 01:09:07,578] Register - Step 04 : Select birthday 23/October/1990
+[2023-08-26 01:09:07,616] Register - Step 04 : Enter to email textbox with value is automationfc8297@fakemail.vn
+[2023-08-26 01:09:07,713] Register - Step 05 : Enter to password textbox with value is 123456
+[2023-08-26 01:09:07,797] Register - Step 06 : Enter to confirmPw textbox with value is 123456
+[2023-08-26 01:09:07,889] Register - Step 07: Click to Register Button
+[2023-08-26 01:09:09,166] Register - Step 08 : Verify register success
+[2023-08-26 01:09:09,238] Register - Step 09 : Go to HomePage
+[2023-08-26 01:09:09,688] Register - Step 01 : Navigate to Login Page
+[2023-08-26 01:09:10,124] Register - Step 02 : email  to Email textbox with value is automationfc8297@fakemail.vn
+[2023-08-26 01:09:10,214] Register - Step 03 : Enter to password textbox with value is 123456
+[2023-08-26 01:09:10,313] Register - Step 04: Click to Login Button
+[2023-08-26 01:09:10,991] Register - Step 05: Verify 'MyAccount' link is display
+[2023-08-26 01:09:11,081]  -------------------------- PASSED -------------------------- 
+[2023-08-26 01:09:11,085] My Account - Step 01: Navigate to 'My Account' Page
+[2023-08-26 01:09:11,506] My Account - Step 02: Verify  'My Account' Page is displayed
+[2023-08-26 01:09:11,595]  -------------------------- PASSED -------------------------- 
+[2023-08-26 01:09:11,595] My Account - Step 03: Verify  'My Account' Page is displayed
+[2023-08-26 01:09:11,653] My Account - Step 04: Verify  lastname is displayed correct
+[2023-08-26 01:09:11,716] My Account - Step 05: Verify  email is displayed correct
+[2023-08-26 10:15:08,129] Register - Step 01 : Navigate to register Page
+[2023-08-26 10:15:09,357] Register - Step 02 : Enter to FirstName textbox with value is AUTOMATION
+[2023-08-26 10:15:09,548] Register - Step 03 : Enter to LastName textbox with value is fc
+[2023-08-26 10:15:10,119] Register - Step 04 : Select birthday 23/October/1990
+[2023-08-26 10:15:10,176] Register - Step 04 : Enter to email textbox with value is automationfc6764@fakemail.vn
+[2023-08-26 10:15:10,344] Register - Step 05 : Enter to password textbox with value is 123456
+[2023-08-26 10:15:10,488] Register - Step 06 : Enter to confirmPw textbox with value is 123456
+[2023-08-26 10:15:10,623] Register - Step 07: Click to Register Button
+[2023-08-26 10:15:11,924] Register - Step 08 : Verify register success
+[2023-08-26 10:15:11,986] Register - Step 09 : Go to HomePage
+[2023-08-26 10:15:12,525] Register - Step 01 : Navigate to Login Page
+[2023-08-26 10:15:12,989] Register - Step 02 : email  to Email textbox with value is automationfc6764@fakemail.vn
+[2023-08-26 10:15:13,152] Register - Step 03 : Enter to password textbox with value is 123456
+[2023-08-26 10:15:13,289] Register - Step 04: Click to Login Button
+[2023-08-26 10:15:14,074] Register - Step 05: Verify 'MyAccount' link is display
+[2023-08-26 10:15:14,142]  -------------------------- PASSED -------------------------- 
+[2023-08-26 10:15:14,149] My Account - Step 01: Navigate to 'My Account' Page
+[2023-08-26 10:15:14,588] My Account - Step 02: Verify  'My Account' Page is displayed
+[2023-08-26 10:15:14,660]  -------------------------- PASSED -------------------------- 
+[2023-08-26 10:15:14,660] My Account - Step 03: Verify  'My Account' Page is displayed
+[2023-08-26 10:15:14,737] My Account - Step 04: Verify  lastname is displayed correct
+[2023-08-26 10:15:14,798] My Account - Step 05: Verify  email is displayed correct
+[2023-08-26 10:15:19,454] Register - Step 01 : Navigate to register Page
+[2023-08-26 10:15:20,784] Register - Step 02 : Enter to FirstName textbox with value is AUTOMATION
+[2023-08-26 10:15:20,881] Register - Step 03 : Enter to LastName textbox with value is fc
+[2023-08-26 10:15:21,866] Register - Step 04 : Select birthday 23/October/1990
+[2023-08-26 10:15:21,915] Register - Step 04 : Enter to email textbox with value is automationfc2715@fakemail.vn
+[2023-08-26 10:15:22,010] Register - Step 05 : Enter to password textbox with value is 123456
+[2023-08-26 10:15:22,094] Register - Step 06 : Enter to confirmPw textbox with value is 123456
+[2023-08-26 10:15:22,173] Register - Step 07: Click to Register Button
+[2023-08-26 10:15:23,419] Register - Step 08 : Verify register success
+[2023-08-26 10:15:23,482] Register - Step 09 : Go to HomePage
+[2023-08-26 10:15:23,951] Register - Step 01 : Navigate to Login Page
+[2023-08-26 10:15:24,453] Register - Step 02 : email  to Email textbox with value is automationfc2715@fakemail.vn
+[2023-08-26 10:15:24,603] Register - Step 03 : Enter to password textbox with value is 123456
+[2023-08-26 10:15:24,694] Register - Step 04: Click to Login Button
+[2023-08-26 10:15:25,403] Register - Step 05: Verify 'MyAccount' link is display
+[2023-08-26 10:15:25,498]  -------------------------- PASSED -------------------------- 
+[2023-08-26 10:15:25,504] My Account - Step 01: Navigate to 'My Account' Page
+[2023-08-26 10:15:25,904] My Account - Step 02: Verify  'My Account' Page is displayed
+[2023-08-26 10:15:26,014]  -------------------------- PASSED -------------------------- 
+[2023-08-26 10:15:26,014] My Account - Step 03: Verify  'My Account' Page is displayed
+[2023-08-26 10:15:26,083] My Account - Step 04: Verify  lastname is displayed correct
+[2023-08-26 10:15:26,146] My Account - Step 05: Verify  email is displayed correct
+[2023-09-06 23:29:53,449] Register - Step 01 : Navigate to register Page
+[2023-09-06 23:29:54,763] Register - Step 02 : Enter to FirstName textbox with value is AUTOMATION
+[2023-09-06 23:29:54,868] Register - Step 03 : Enter to LastName textbox with value is fc
+[2023-09-06 23:29:55,920] Register - Step 04 : Select birthday 23/October/1990
+[2023-09-06 23:29:55,968] Register - Step 04 : Enter to email textbox with value is automationfc5543@fakemail.vn
+[2023-09-06 23:29:56,070] Register - Step 05 : Enter to password textbox with value is 123456
+[2023-09-06 23:29:56,146] Register - Step 06 : Enter to confirmPw textbox with value is 123456
+[2023-09-06 23:29:56,223] Register - Step 07: Click to Register Button
+[2023-09-06 23:29:56,964] Register - Step 08 : Verify register success
+[2023-09-06 23:29:57,050] Register - Step 09 : Go to HomePage
+[2023-09-06 23:29:57,497] Register - Step 01 : Navigate to Login Page
+[2023-09-06 23:29:57,934] Register - Step 02 : email  to Email textbox with value is automationfc5543@fakemail.vn
+[2023-09-06 23:29:58,048] Register - Step 03 : Enter to password textbox with value is 123456
+[2023-09-06 23:29:58,139] Register - Step 04: Click to Login Button
+[2023-09-06 23:29:58,883] Register - Step 05: Verify 'MyAccount' link is display
+[2023-09-06 23:29:58,974]  -------------------------- PASSED -------------------------- 
+[2023-09-06 23:29:58,979] My Account - Step 01: Navigate to 'My Account' Page
+[2023-09-06 23:29:59,856] My Account - Step 02: Verify  'My Account' Page is displayed
+[2023-09-06 23:29:59,944]  -------------------------- PASSED -------------------------- 
+[2023-09-06 23:29:59,945] My Account - Step 03: Verify  'My Account' Page is displayed
+[2023-09-06 23:30:00,001] My Account - Step 04: Verify  lastname is displayed correct
+[2023-09-06 23:30:00,063] My Account - Step 05: Verify  email is displayed correct
+[2023-09-06 23:31:09,078] Precondition - Step 01 : Open browser and admin URL
+[2023-09-06 23:31:13,053] Precondition - Step 01 : Open browser and admin URL
+[2023-09-06 23:31:16,420] Precondition - RANDOM NUMBER402
+[2023-09-06 23:31:16,420] Precondition - Step 02 : Enter to username textbox with valueautomationVa
